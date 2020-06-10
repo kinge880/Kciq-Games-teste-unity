@@ -13,31 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-06-10T00:13:43.815-05:00
-  initializedAtString: 2020-06-10T00:06:19.967-05:00
-  localBranches:
-  - name: master
-    tracking: 
+  lastUpdatedAtString: 2020-06-10T12:01:40.060-05:00
+  initializedAtString: 2020-06-10T10:59:38.457-05:00
+  localBranches: []
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/kinge880/Kciq-Games-Teste-godot----unity
+    url: https://github.com/kinge880/Kciq-Games-teste-unity.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
@@ -49,11 +41,11 @@ MonoBehaviour:
       - name: master
         remote:
           name: origin
-          url: https://github.com/kinge880/Kciq-Games-Teste-godot----unity
+          url: https://github.com/kinge880/Kciq-Games-teste-unity.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/kinge880/Kciq-Games-Teste-godot----unity
+      url: https://github.com/kinge880/Kciq-Games-teste-unity.git
