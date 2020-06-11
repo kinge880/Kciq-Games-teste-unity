@@ -13,11 +13,12 @@ public class playerFSM : MonoBehaviour
     private SpriteRenderer playerSprite;
     public enum playerState
     {
-        Idle,
-        Walk,
-        Jump,
-        Fall
+        IDLE,
+        WALKING,
+        JUMPING,
+        FALLING
     }
+    public playerState states;
 
 
     void Start()
@@ -27,7 +28,7 @@ public class playerFSM : MonoBehaviour
         playerSprite = GetComponent<SpriteRenderer>();
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (isJump)
         {

@@ -4,29 +4,20 @@ using UnityEngine;
 
 public class scollScript : MonoBehaviour
 {
-    [SerializeField] Transform target;
-    [SerializeField] float relativeSpeed;
-    [SerializeField] float oldPositionX;
+    public Transform target;
+    public float relativeSpeed = 1;
+    private Vector3 oldPosition;
 
     void Start()
     {
-        if (relativeSpeed < 1)
-        {
-            relativeSpeed = 1;
-        }
-
-        target = GameObject.FindGameObjectWithTag("Player").transform;
-        oldPositionX = target.position.x;
+        target = GameObject.FindGameObjectWithTag("MainCamera").transform;
+        oldPosition = target.position;
     }
 
-    void Update()
+    void FixedUpdate()
     {
-        transform.Translate((target.position.x - oldPositionX)/ relativeSpeed, 0, 0);
-        oldPositionX = target.position.x;
+        transform.Translate((target.position.x - oldPosition.x) / relativeSpeed, 0, 0);
+        oldPosition = target.position;
     }
 
-    void paralaxEffect()
-    {
-
-    }
 }
