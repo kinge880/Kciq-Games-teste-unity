@@ -7,7 +7,7 @@ public class playerFSM : MonoBehaviour
 {
     [SerializeField] float walkSpeed = 1.5f; //velocidade de movimento do player
     [SerializeField] float jumpForce = 110f; //força do pulo
-    [SerializeField] enum PlayerState { STANDING, JUMPING, FALLING } 
+    [SerializeField] enum PlayerState { STANDING, JUMPING, FALLING, DOUBLEJUMP } 
     [SerializeField] PlayerState state;
     [SerializeField] Transform groundCheck; //objeto que toca o chão realizar a verificação
     [SerializeField] LayerMask wathIsGround; //identifica o que é o chão
@@ -37,11 +37,14 @@ public class playerFSM : MonoBehaviour
             case PlayerState.JUMPING:
                 Jumping();
                 break;
+            case PlayerState.DOUBLEJUMP:
+                Double_Jump();
+                break;
         }
 
     }
 
-    public void update_velocity()
+    public void Update_velocity()
     {
         //define a direção do sprite, direção das áreas de colisão e outras coisas que devem virar junto do player
         switch (horizontal)
@@ -58,8 +61,8 @@ public class playerFSM : MonoBehaviour
     //Estado para o player parado e andando
     public void Standing()
     {
-        update_velocity();
-        jump_transition();
+        Update_velocity();
+        Jump_transition();
 
         if (horizontal == 0){
             animations.SetBool("onWalk", false);
@@ -75,7 +78,6 @@ public class playerFSM : MonoBehaviour
     //Estado para o player pulando
     public void Jumping()
     {
-        update_velocity();
         //verifica se o player ta no chão
         is_on_floor = Physics2D.Linecast(transform.position, groundCheck.position, wathIsGround);
 
@@ -84,21 +86,21 @@ public class playerFSM : MonoBehaviour
             animations.SetBool("onJump", true);
         }else if(playerBody.velocity.y < 0)
         {
-            animations.SetBool("onJump", false);
             animations.SetBool("onFall", true);
         }
 
         if (is_on_floor)
         {
-            animations.SetBool("onJump", false);
             animations.SetBool("onFall", false);
+            animations.SetBool("onJump", false);
             state = PlayerState.STANDING;
         }
 
-        playerBody.velocity = new Vector2(horizontal * walkSpeed, playerBody.velocity.y);
+        Update_velocity();
+        Double_jump_transition();
     }
 
-    public void jump_transition()
+    public void Jump_transition()
     {
         if (isJump)
         {
@@ -108,24 +110,49 @@ public class playerFSM : MonoBehaviour
             state = PlayerState.JUMPING;
         }
 
-        if (playerBody.velocity.y < 0)
+        if (playerBody.velocity.y < -0.1) //botei -0.1 pq o unity gera valores para y muito pequenos por conta de erro de ponto flutuante como "-2.443569E-08", mas isso impede uma verificação de < 0
         {
             animations.SetBool("onWalk", false);
             state = PlayerState.JUMPING;
+            Debug.Log(playerBody.velocity.y);
+        }
+    }
+
+    public void Double_Jump()
+    {
+        animations.SetBool("onDoubleJump", true);
+        Update_velocity();
+        //verifica se o player ta no chão
+        is_on_floor = Physics2D.Linecast(transform.position, groundCheck.position, wathIsGround);
+
+        if (is_on_floor)
+        {
+            animations.Rebind();
+            state = PlayerState.STANDING;
+        }
+    }
+
+    public void Double_jump_transition()
+    {
+        if (isJump)
+        {
+            animations.SetBool("onFall", false);
+            playerBody.AddForce(new Vector2(0, jumpForce));
+            isJump = false;
+            state = PlayerState.DOUBLEJUMP;
         }
     }
 
     //captura a entrada da tecla de pulo
-    public void SetJump(InputAction.CallbackContext context)
+    public void Set_jump(InputAction.CallbackContext context)
     {
         isJump = context.performed;
     }
 
     //captura a entrada da tecla de movimento horizontal
-    public void SetMovement(InputAction.CallbackContext context)
+    public void Set_movement(InputAction.CallbackContext context)
     {
         horizontal = context.ReadValue<float>();
-
     }
 
 }

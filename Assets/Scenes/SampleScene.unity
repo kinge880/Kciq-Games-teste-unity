@@ -2529,7 +2529,7 @@ MonoBehaviour:
   - m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 647789711}
-        m_MethodName: SetMovement
+        m_MethodName: Set_movement
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2544,7 +2544,7 @@ MonoBehaviour:
   - m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 647789711}
-        m_MethodName: SetJump
+        m_MethodName: Set_jump
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
