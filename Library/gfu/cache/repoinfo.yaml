@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-06-11T23:12:39.018-05:00
-  initializedAtString: 2020-06-11T23:12:39.018-05:00
+  lastUpdatedAtString: 2020-06-12T12:07:06.395-05:00
+  initializedAtString: 2020-06-12T12:07:06.395-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/kinge880/Kciq-Games-teste-unity.git

@@ -2495,6 +2495,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 1.5
   jumpForce: 110
+  dashDuration: 0.312
+  dashSpeed: 3
   state: 0
   groundCheck: {fileID: 1451659196}
   wathIsGround:
@@ -2556,6 +2558,21 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: d8f7f5c3-6deb-4149-ac62-c30bb4d50b5e
     m_ActionName: playerInputs1/jump[/Keyboard/space]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 647789711}
+        m_MethodName: Set_dash
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 5e67d90c-a67d-4229-9349-080c2eb33520
+    m_ActionName: playerInputs1/Dash[/Keyboard/shift]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: playerInputs1
