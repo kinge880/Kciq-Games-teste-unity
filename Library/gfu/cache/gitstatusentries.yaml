@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-11T17:10:42.419-05:00
-  initializedAtString: 2020-06-11T16:40:52.347-05:00
+  lastUpdatedAtString: 2020-06-11T23:01:51.950-05:00
+  initializedAtString: 2020-06-11T17:12:23.906-05:00
   entries:
   - path: .vs\Kciq-Games-teste-unity\v16\.suo
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\.vs\Kciq-Games-teste-unity\v16\.suo
@@ -34,9 +34,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\graphic\tiles\Magic-Cliffs-Environment\Tiles\tileset.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\tiles\Magic-Cliffs-Environment\Tiles\tileset.png.meta
-    projectPath: Assets\graphic\tiles\Magic-Cliffs-Environment\Tiles\tileset.png.meta
+  - path: Assets\animations\player\playerDown.anim
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\animations\player\playerDown.anim
+    projectPath: Assets\animations\player\playerDown.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\animations\player\playerJump.anim
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\animations\player\playerJump.anim
+    projectPath: Assets\animations\player\playerJump.anim
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -50,173 +56,239 @@ MonoBehaviour:
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\CameraFollow.cs
     projectPath: Assets\Scripts\CameraFollow.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CameraFollow.cs.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\CameraFollow.cs.meta
-    projectPath: Assets\Scripts\CameraFollow.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\playerScripts\playerFSM.cs
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\playerScripts\playerFSM.cs
     projectPath: Assets\Scripts\playerScripts\playerFSM.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\scollScript.cs
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\scollScript.cs
-    projectPath: Assets\Scripts\scollScript.cs
+  - path: Assets\Scripts\playerScripts\state.cs
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\playerScripts\state.cs
+    projectPath: Assets\Scripts\playerScripts\state.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\playerScripts\state.cs.meta
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\playerScripts\state.cs.meta
+    projectPath: Assets\Scripts\playerScripts\state.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\AnnotationManager
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\AnnotationManager
+    projectPath: Library\AnnotationManager
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\SmoothCamera2D.cs
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\SmoothCamera2D.cs
-    projectPath: Assets\Scripts\SmoothCamera2D.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\SmoothCamera2D.cs.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\SmoothCamera2D.cs.meta
-    projectPath: Assets\Scripts\SmoothCamera2D.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\00\0064aaa93dc9b759f88eed4aadfbf617
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\00\0064aaa93dc9b759f88eed4aadfbf617
-    projectPath: Library\Artifacts\00\0064aaa93dc9b759f88eed4aadfbf617
+  - path: Library\Artifacts\04\0442249a09d149263514d842a51c6f2f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\04\0442249a09d149263514d842a51c6f2f
+    projectPath: Library\Artifacts\04\0442249a09d149263514d842a51c6f2f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\09\097d9da286fa7c9e41e35490ac222829
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\09\097d9da286fa7c9e41e35490ac222829
     projectPath: Library\Artifacts\09\097d9da286fa7c9e41e35490ac222829
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0c\0c98c26aa161c6060073c725799df8bb
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0c\0c98c26aa161c6060073c725799df8bb
-    projectPath: Library\Artifacts\0c\0c98c26aa161c6060073c725799df8bb
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0b\0b3434fd4399304287331753c2221a1d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0b\0b3434fd4399304287331753c2221a1d
+    projectPath: Library\Artifacts\0b\0b3434fd4399304287331753c2221a1d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0f\0fcbe19ccfaebdb61367e686790a7a8c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0f\0fcbe19ccfaebdb61367e686790a7a8c
-    projectPath: Library\Artifacts\0f\0fcbe19ccfaebdb61367e686790a7a8c
+  - path: Library\Artifacts\0f\0fed5d58de116827a61c7c9c97efdcbf
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0f\0fed5d58de116827a61c7c9c97efdcbf
+    projectPath: Library\Artifacts\0f\0fed5d58de116827a61c7c9c97efdcbf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\12\129818396267d4b08484568876e38b51
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\12\129818396267d4b08484568876e38b51
-    projectPath: Library\Artifacts\12\129818396267d4b08484568876e38b51
+  - path: Library\Artifacts\15\157ca201a7aa885514f499511ecf0217
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\15\157ca201a7aa885514f499511ecf0217
+    projectPath: Library\Artifacts\15\157ca201a7aa885514f499511ecf0217
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1f5d9dc4ba10370a0f3313a093e9691f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\1f\1f5d9dc4ba10370a0f3313a093e9691f
+    projectPath: Library\Artifacts\1f\1f5d9dc4ba10370a0f3313a093e9691f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\205738daec4d6990e6a0cdc9014b9000
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\20\205738daec4d6990e6a0cdc9014b9000
+    projectPath: Library\Artifacts\20\205738daec4d6990e6a0cdc9014b9000
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\229a21897267517cfaeff30bb6dd7128
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\22\229a21897267517cfaeff30bb6dd7128
+    projectPath: Library\Artifacts\22\229a21897267517cfaeff30bb6dd7128
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\29\2902e44e2fbda782d6d8755e4718ebcc
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\29\2902e44e2fbda782d6d8755e4718ebcc
+    projectPath: Library\Artifacts\29\2902e44e2fbda782d6d8755e4718ebcc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\30dbe925021be8aea5ce8d330ed859f7
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\30\30dbe925021be8aea5ce8d330ed859f7
+    projectPath: Library\Artifacts\30\30dbe925021be8aea5ce8d330ed859f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\37\3701280bf69e1eebe10ca902e49ce05a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\37\3701280bf69e1eebe10ca902e49ce05a
+    projectPath: Library\Artifacts\37\3701280bf69e1eebe10ca902e49ce05a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38ac47364588cb6651c3ad6319e98453
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\38\38ac47364588cb6651c3ad6319e98453
+    projectPath: Library\Artifacts\38\38ac47364588cb6651c3ad6319e98453
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\39270756180e7b66dfa540d2ddf034fb
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\39\39270756180e7b66dfa540d2ddf034fb
+    projectPath: Library\Artifacts\39\39270756180e7b66dfa540d2ddf034fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3ac9c6f486742ec9c672c0833d855874
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3a\3ac9c6f486742ec9c672c0833d855874
+    projectPath: Library\Artifacts\3a\3ac9c6f486742ec9c672c0833d855874
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3c659e16b5c08f7e4bae5a9578ee40dd
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3c\3c659e16b5c08f7e4bae5a9578ee40dd
+    projectPath: Library\Artifacts\3c\3c659e16b5c08f7e4bae5a9578ee40dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3db4ccfbd1a421802aaf085076f96150
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3d\3db4ccfbd1a421802aaf085076f96150
+    projectPath: Library\Artifacts\3d\3db4ccfbd1a421802aaf085076f96150
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\41\419a374fd5bc070812bdb679c6ed1602
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\41\419a374fd5bc070812bdb679c6ed1602
+    projectPath: Library\Artifacts\41\419a374fd5bc070812bdb679c6ed1602
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\4485320e45c97dc523987f0dc8c7843f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\44\4485320e45c97dc523987f0dc8c7843f
+    projectPath: Library\Artifacts\44\4485320e45c97dc523987f0dc8c7843f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\45\4578f4268654a4d589811514e7178b69
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\45\4578f4268654a4d589811514e7178b69
+    projectPath: Library\Artifacts\45\4578f4268654a4d589811514e7178b69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\48109f8351f676b66ed17048f1e56e63
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\48\48109f8351f676b66ed17048f1e56e63
+    projectPath: Library\Artifacts\48\48109f8351f676b66ed17048f1e56e63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\48\4874210e8526cd5f99fca9d6e5c9d49b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\48\4874210e8526cd5f99fca9d6e5c9d49b
+    projectPath: Library\Artifacts\48\4874210e8526cd5f99fca9d6e5c9d49b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a5c6c6a79223474f0216f3baedbb799
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4a\4a5c6c6a79223474f0216f3baedbb799
+    projectPath: Library\Artifacts\4a\4a5c6c6a79223474f0216f3baedbb799
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b4d20ec871e9e31168cf6264ca61324
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4b\4b4d20ec871e9e31168cf6264ca61324
+    projectPath: Library\Artifacts\4b\4b4d20ec871e9e31168cf6264ca61324
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4c8eef6568ed557dcfa0db9da6203a17
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4c\4c8eef6568ed557dcfa0db9da6203a17
+    projectPath: Library\Artifacts\4c\4c8eef6568ed557dcfa0db9da6203a17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\54a2ad0d22b47e20dc6c37e0bc7ae886
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\54\54a2ad0d22b47e20dc6c37e0bc7ae886
+    projectPath: Library\Artifacts\54\54a2ad0d22b47e20dc6c37e0bc7ae886
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\55\55f80e5264fa27907e796ed8147293a9
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\55\55f80e5264fa27907e796ed8147293a9
+    projectPath: Library\Artifacts\55\55f80e5264fa27907e796ed8147293a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\5655e2a4ed95bb7bf185979a6572c236
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\56\5655e2a4ed95bb7bf185979a6572c236
+    projectPath: Library\Artifacts\56\5655e2a4ed95bb7bf185979a6572c236
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\13\13fcdf3e0eb7d61a852411d17e258be2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\13\13fcdf3e0eb7d61a852411d17e258be2
-    projectPath: Library\Artifacts\13\13fcdf3e0eb7d61a852411d17e258be2
+  - path: Library\Artifacts\57\57d20a273190f1edf0c2c6a16b8ff606
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\57\57d20a273190f1edf0c2c6a16b8ff606
+    projectPath: Library\Artifacts\57\57d20a273190f1edf0c2c6a16b8ff606
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\19\190c568743b56bad8f1f80c0028ca0e6
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\19\190c568743b56bad8f1f80c0028ca0e6
-    projectPath: Library\Artifacts\19\190c568743b56bad8f1f80c0028ca0e6
+  - path: Library\Artifacts\57\57f8e04ac909840df4ab363530d894d5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\57\57f8e04ac909840df4ab363530d894d5
+    projectPath: Library\Artifacts\57\57f8e04ac909840df4ab363530d894d5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\19\19fd0b588ef8095db5c6de2a35f84185
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\19\19fd0b588ef8095db5c6de2a35f84185
-    projectPath: Library\Artifacts\19\19fd0b588ef8095db5c6de2a35f84185
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\24\24abfd728c26acdf1dfb9eb7f01f19d6
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\24\24abfd728c26acdf1dfb9eb7f01f19d6
-    projectPath: Library\Artifacts\24\24abfd728c26acdf1dfb9eb7f01f19d6
+  - path: Library\Artifacts\58\5807505e8523aeddcf62353ab17b445d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\58\5807505e8523aeddcf62353ab17b445d
+    projectPath: Library\Artifacts\58\5807505e8523aeddcf62353ab17b445d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\28\28148d200fb25bf8292e12c35f9c7cd9
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\28\28148d200fb25bf8292e12c35f9c7cd9
-    projectPath: Library\Artifacts\28\28148d200fb25bf8292e12c35f9c7cd9
+  - path: Library\Artifacts\5f\5fdc5e94030d831fe351bc1299570f74
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5f\5fdc5e94030d831fe351bc1299570f74
+    projectPath: Library\Artifacts\5f\5fdc5e94030d831fe351bc1299570f74
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\2d\2d4bb031c3d1d6380b2c5eb1afc17a0c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\2d\2d4bb031c3d1d6380b2c5eb1afc17a0c
-    projectPath: Library\Artifacts\2d\2d4bb031c3d1d6380b2c5eb1afc17a0c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2f\2f0f2ac92e3d1c9f6c1570dcce622ba1
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\2f\2f0f2ac92e3d1c9f6c1570dcce622ba1
-    projectPath: Library\Artifacts\2f\2f0f2ac92e3d1c9f6c1570dcce622ba1
+  - path: Library\Artifacts\63\631c514fa3131f99a2af2022f8f5a14f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\63\631c514fa3131f99a2af2022f8f5a14f
+    projectPath: Library\Artifacts\63\631c514fa3131f99a2af2022f8f5a14f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\40\408f1490f3f2da35862d4bf69d804f89
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\40\408f1490f3f2da35862d4bf69d804f89
-    projectPath: Library\Artifacts\40\408f1490f3f2da35862d4bf69d804f89
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\45\453db626d32d06f4102877ac3d13d93d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\45\453db626d32d06f4102877ac3d13d93d
-    projectPath: Library\Artifacts\45\453db626d32d06f4102877ac3d13d93d
+  - path: Library\Artifacts\63\636e6bcb5a6a2c749e47956b7ec8ac2e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\63\636e6bcb5a6a2c749e47956b7ec8ac2e
+    projectPath: Library\Artifacts\63\636e6bcb5a6a2c749e47956b7ec8ac2e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\47\47616ec8d05d809ce1131211d58b3f33
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\47\47616ec8d05d809ce1131211d58b3f33
-    projectPath: Library\Artifacts\47\47616ec8d05d809ce1131211d58b3f33
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4a\4a80f900c16fe7d47460e1d741047f46
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4a\4a80f900c16fe7d47460e1d741047f46
-    projectPath: Library\Artifacts\4a\4a80f900c16fe7d47460e1d741047f46
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4c\4cdc3d155395cfc90d40ddf95c25dbf3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4c\4cdc3d155395cfc90d40ddf95c25dbf3
-    projectPath: Library\Artifacts\4c\4cdc3d155395cfc90d40ddf95c25dbf3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\55\5538be3151aa437e80d04fa4acd415a4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\55\5538be3151aa437e80d04fa4acd415a4
-    projectPath: Library\Artifacts\55\5538be3151aa437e80d04fa4acd415a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5a\5a1a49326a7bb071630d3b345a7128b2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5a\5a1a49326a7bb071630d3b345a7128b2
-    projectPath: Library\Artifacts\5a\5a1a49326a7bb071630d3b345a7128b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5d\5dbbe911bb2c79041a665d733afd5518
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5d\5dbbe911bb2c79041a665d733afd5518
-    projectPath: Library\Artifacts\5d\5dbbe911bb2c79041a665d733afd5518
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5e\5e145531ac33257e93f7f1620c5144a0
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5e\5e145531ac33257e93f7f1620c5144a0
-    projectPath: Library\Artifacts\5e\5e145531ac33257e93f7f1620c5144a0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\607b5fe1868fe526fff63a7866be1d27
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\60\607b5fe1868fe526fff63a7866be1d27
-    projectPath: Library\Artifacts\60\607b5fe1868fe526fff63a7866be1d27
+  - path: Library\Artifacts\64\6416505acdc1e3e95dae96cf22ef9a19
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\64\6416505acdc1e3e95dae96cf22ef9a19
+    projectPath: Library\Artifacts\64\6416505acdc1e3e95dae96cf22ef9a19
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -224,29 +296,47 @@ MonoBehaviour:
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\65\65b471779bd260f0391253b73aea0eac
     projectPath: Library\Artifacts\65\65b471779bd260f0391253b73aea0eac
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\67\677440743b30217a4c97aef4e7af865b
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\67\677440743b30217a4c97aef4e7af865b
-    projectPath: Library\Artifacts\67\677440743b30217a4c97aef4e7af865b
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\77\77032905c86a14589cd728b5d7d6958d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\77\77032905c86a14589cd728b5d7d6958d
-    projectPath: Library\Artifacts\77\77032905c86a14589cd728b5d7d6958d
+  - path: Library\Artifacts\66\6634fbca481dc74b60a3b0899326f42c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\66\6634fbca481dc74b60a3b0899326f42c
+    projectPath: Library\Artifacts\66\6634fbca481dc74b60a3b0899326f42c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\83\831a7b13eff55bafa915cb552886aa62
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\83\831a7b13eff55bafa915cb552886aa62
-    projectPath: Library\Artifacts\83\831a7b13eff55bafa915cb552886aa62
+  - path: Library\Artifacts\68\68c03f7125b1e84bd7a27931717c539c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\68\68c03f7125b1e84bd7a27931717c539c
+    projectPath: Library\Artifacts\68\68c03f7125b1e84bd7a27931717c539c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\83\8353317f26c3989996ded131394951a3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\83\8353317f26c3989996ded131394951a3
-    projectPath: Library\Artifacts\83\8353317f26c3989996ded131394951a3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6b\6b07bf6473e043e9aa0c8e1d6ed770a3
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\6b\6b07bf6473e043e9aa0c8e1d6ed770a3
+    projectPath: Library\Artifacts\6b\6b07bf6473e043e9aa0c8e1d6ed770a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6f\6f86e3a3a0cb8d9b2b1c5bcb6d33ad1d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\6f\6f86e3a3a0cb8d9b2b1c5bcb6d33ad1d
+    projectPath: Library\Artifacts\6f\6f86e3a3a0cb8d9b2b1c5bcb6d33ad1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6f\6fc08c0e44caee49b4f5af66a7b5db27
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\6f\6fc08c0e44caee49b4f5af66a7b5db27
+    projectPath: Library\Artifacts\6f\6fc08c0e44caee49b4f5af66a7b5db27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\72556bb44686bcb7eaabe04c99d2759f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\72\72556bb44686bcb7eaabe04c99d2759f
+    projectPath: Library\Artifacts\72\72556bb44686bcb7eaabe04c99d2759f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\78d250b17ce0b0950827c8d0db04631c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\78\78d250b17ce0b0950827c8d0db04631c
+    projectPath: Library\Artifacts\78\78d250b17ce0b0950827c8d0db04631c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -254,194 +344,230 @@ MonoBehaviour:
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\83\83f0bab7b311867cada56bc2f2121120
     projectPath: Library\Artifacts\83\83f0bab7b311867cada56bc2f2121120
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\84\84d86ca1ab2178e1ce357bbc8add08c3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\84\84d86ca1ab2178e1ce357bbc8add08c3
-    projectPath: Library\Artifacts\84\84d86ca1ab2178e1ce357bbc8add08c3
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\86\86a954fa877d623d46a8732922fdc830
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\86\86a954fa877d623d46a8732922fdc830
-    projectPath: Library\Artifacts\86\86a954fa877d623d46a8732922fdc830
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\93\93cde4e0a7e9805dade68d6510145e66
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\93\93cde4e0a7e9805dade68d6510145e66
-    projectPath: Library\Artifacts\93\93cde4e0a7e9805dade68d6510145e66
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\97\97788c9b7cf50f58773d4a5f2d7fd978
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\97\97788c9b7cf50f58773d4a5f2d7fd978
-    projectPath: Library\Artifacts\97\97788c9b7cf50f58773d4a5f2d7fd978
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a2\a2de305f85827353b63966a80f34a131
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a2\a2de305f85827353b63966a80f34a131
-    projectPath: Library\Artifacts\a2\a2de305f85827353b63966a80f34a131
+  - path: Library\Artifacts\85\854ff163b2bad16be5a2e4a0c100e238
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\85\854ff163b2bad16be5a2e4a0c100e238
+    projectPath: Library\Artifacts\85\854ff163b2bad16be5a2e4a0c100e238
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\a3\a3dc89f35fbd4902a67c99c45a20c728
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a3\a3dc89f35fbd4902a67c99c45a20c728
-    projectPath: Library\Artifacts\a3\a3dc89f35fbd4902a67c99c45a20c728
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\b5\b5d2458048c31552273ae07070598af0
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b5\b5d2458048c31552273ae07070598af0
-    projectPath: Library\Artifacts\b5\b5d2458048c31552273ae07070598af0
+  - path: Library\Artifacts\89\89c084cfe26528cf74fa7efb02f1d377
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\89\89c084cfe26528cf74fa7efb02f1d377
+    projectPath: Library\Artifacts\89\89c084cfe26528cf74fa7efb02f1d377
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\b8\b8486f5e105c86a192b629f24b83f6ec
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b8\b8486f5e105c86a192b629f24b83f6ec
-    projectPath: Library\Artifacts\b8\b8486f5e105c86a192b629f24b83f6ec
+  - path: Library\Artifacts\8c\8c4f371bb6ca747e94ab8631498c4081
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\8c\8c4f371bb6ca747e94ab8631498c4081
+    projectPath: Library\Artifacts\8c\8c4f371bb6ca747e94ab8631498c4081
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\bb\bbf9cf51f504c4e15c64f864010f312c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\bb\bbf9cf51f504c4e15c64f864010f312c
-    projectPath: Library\Artifacts\bb\bbf9cf51f504c4e15c64f864010f312c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c1\c1128e763ba3d46f780ccaee82917ade
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c1\c1128e763ba3d46f780ccaee82917ade
-    projectPath: Library\Artifacts\c1\c1128e763ba3d46f780ccaee82917ade
+  - path: Library\Artifacts\8d\8d995231a2ca43ac3d3f3409331fc8e3
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\8d\8d995231a2ca43ac3d3f3409331fc8e3
+    projectPath: Library\Artifacts\8d\8d995231a2ca43ac3d3f3409331fc8e3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c1\c19bcbfb535403984af9e3310879ee8a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c1\c19bcbfb535403984af9e3310879ee8a
-    projectPath: Library\Artifacts\c1\c19bcbfb535403984af9e3310879ee8a
+  - path: Library\Artifacts\8f\8ffe0bcb9879928e2b20665e88a9b9e7
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\8f\8ffe0bcb9879928e2b20665e88a9b9e7
+    projectPath: Library\Artifacts\8f\8ffe0bcb9879928e2b20665e88a9b9e7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c4\c481a0a830109fadaa77946fb972f97b
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c4\c481a0a830109fadaa77946fb972f97b
-    projectPath: Library\Artifacts\c4\c481a0a830109fadaa77946fb972f97b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c4\c4ad7a67d5308d454140e3049af44baa
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c4\c4ad7a67d5308d454140e3049af44baa
-    projectPath: Library\Artifacts\c4\c4ad7a67d5308d454140e3049af44baa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c5\c55ebd2503955d62549b540ebdd7ffdd
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c5\c55ebd2503955d62549b540ebdd7ffdd
-    projectPath: Library\Artifacts\c5\c55ebd2503955d62549b540ebdd7ffdd
+  - path: Library\Artifacts\91\911850d00b9683fac5c4d07d06f06109
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\91\911850d00b9683fac5c4d07d06f06109
+    projectPath: Library\Artifacts\91\911850d00b9683fac5c4d07d06f06109
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c8\c870322d084c7de6096e4b7de67454ec
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c8\c870322d084c7de6096e4b7de67454ec
-    projectPath: Library\Artifacts\c8\c870322d084c7de6096e4b7de67454ec
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c8\c8d49db424d8188a242be6557362aba2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c8\c8d49db424d8188a242be6557362aba2
-    projectPath: Library\Artifacts\c8\c8d49db424d8188a242be6557362aba2
+  - path: Library\Artifacts\93\931e23dbd602787f9ce693ccd5dc32d6
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\93\931e23dbd602787f9ce693ccd5dc32d6
+    projectPath: Library\Artifacts\93\931e23dbd602787f9ce693ccd5dc32d6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\cb\cb4311a52a91e30a3c4f7b7f6a392855
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\cb\cb4311a52a91e30a3c4f7b7f6a392855
-    projectPath: Library\Artifacts\cb\cb4311a52a91e30a3c4f7b7f6a392855
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cb\cb9de36f3ede05f39459fb6633d221ad
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\cb\cb9de36f3ede05f39459fb6633d221ad
-    projectPath: Library\Artifacts\cb\cb9de36f3ede05f39459fb6633d221ad
+  - path: Library\Artifacts\93\93cc069365019c337a780bd03403b3ac
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\93\93cc069365019c337a780bd03403b3ac
+    projectPath: Library\Artifacts\93\93cc069365019c337a780bd03403b3ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d0\d024741145b4f6e07398f785559f50f4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d0\d024741145b4f6e07398f785559f50f4
-    projectPath: Library\Artifacts\d0\d024741145b4f6e07398f785559f50f4
+  - path: Library\Artifacts\94\94240323657ce5acca01cf6e1e5815b8
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\94\94240323657ce5acca01cf6e1e5815b8
+    projectPath: Library\Artifacts\94\94240323657ce5acca01cf6e1e5815b8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d8\d8091eba47545d2b4c62906bf08e69f6
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d8\d8091eba47545d2b4c62906bf08e69f6
-    projectPath: Library\Artifacts\d8\d8091eba47545d2b4c62906bf08e69f6
+  - path: Library\Artifacts\94\94b2a8f664f3319bb3b5fb947207c143
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\94\94b2a8f664f3319bb3b5fb947207c143
+    projectPath: Library\Artifacts\94\94b2a8f664f3319bb3b5fb947207c143
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\da\da920942a9f0ea5142b3339e313dea12
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\da\da920942a9f0ea5142b3339e313dea12
-    projectPath: Library\Artifacts\da\da920942a9f0ea5142b3339e313dea12
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\df\dfbd813973e914e818ec9de1e193c0bf
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\df\dfbd813973e914e818ec9de1e193c0bf
-    projectPath: Library\Artifacts\df\dfbd813973e914e818ec9de1e193c0bf
+  - path: Library\Artifacts\96\9699f087c43a920689d88ee86257e26d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\96\9699f087c43a920689d88ee86257e26d
+    projectPath: Library\Artifacts\96\9699f087c43a920689d88ee86257e26d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0b1cbc999f5cd6fc055bb8b01b5f2c2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e0\e0b1cbc999f5cd6fc055bb8b01b5f2c2
-    projectPath: Library\Artifacts\e0\e0b1cbc999f5cd6fc055bb8b01b5f2c2
+  - path: Library\Artifacts\a1\a127670577b550ff5ad37f1d7577b1ce
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a1\a127670577b550ff5ad37f1d7577b1ce
+    projectPath: Library\Artifacts\a1\a127670577b550ff5ad37f1d7577b1ce
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0e72e5a35f025c0ceaf0f31856e89a8
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e0\e0e72e5a35f025c0ceaf0f31856e89a8
-    projectPath: Library\Artifacts\e0\e0e72e5a35f025c0ceaf0f31856e89a8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e2\e2788c242b640d98f18ef06d1b634797
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e2\e2788c242b640d98f18ef06d1b634797
-    projectPath: Library\Artifacts\e2\e2788c242b640d98f18ef06d1b634797
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ea\eadb153cdf048c0aad4577804dd57d32
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ea\eadb153cdf048c0aad4577804dd57d32
-    projectPath: Library\Artifacts\ea\eadb153cdf048c0aad4577804dd57d32
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f3\f35c1e820a512398f89170fd35ea4ba2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f3\f35c1e820a512398f89170fd35ea4ba2
-    projectPath: Library\Artifacts\f3\f35c1e820a512398f89170fd35ea4ba2
+  - path: Library\Artifacts\a4\a4f1f4358b68a5a0ce4f8567a5b0849a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a4\a4f1f4358b68a5a0ce4f8567a5b0849a
+    projectPath: Library\Artifacts\a4\a4f1f4358b68a5a0ce4f8567a5b0849a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\fe\fed6bacb9d261ecca12c835e14d36c03
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fe\fed6bacb9d261ecca12c835e14d36c03
-    projectPath: Library\Artifacts\fe\fed6bacb9d261ecca12c835e14d36c03
+  - path: Library\Artifacts\a4\a4ff23dd2fc96b756c248cc55782cc2e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a4\a4ff23dd2fc96b756c248cc55782cc2e
+    projectPath: Library\Artifacts\a4\a4ff23dd2fc96b756c248cc55782cc2e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a92de8056ea80698d89878fefe14b164
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a9\a92de8056ea80698d89878fefe14b164
+    projectPath: Library\Artifacts\a9\a92de8056ea80698d89878fefe14b164
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a9310dcc65df27503f0edbf638754a27
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a9\a9310dcc65df27503f0edbf638754a27
+    projectPath: Library\Artifacts\a9\a9310dcc65df27503f0edbf638754a27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa0c2f90091285bf641ef6deadf87eda
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\aa\aa0c2f90091285bf641ef6deadf87eda
+    projectPath: Library\Artifacts\aa\aa0c2f90091285bf641ef6deadf87eda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\af\afe35ee905c6febb33ec0b93c96f385f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\af\afe35ee905c6febb33ec0b93c96f385f
+    projectPath: Library\Artifacts\af\afe35ee905c6febb33ec0b93c96f385f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b1\b1e631f569854e39bc8cf1703b35014f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b1\b1e631f569854e39bc8cf1703b35014f
+    projectPath: Library\Artifacts\b1\b1e631f569854e39bc8cf1703b35014f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b20fbc7ff224a2c7f09d0e71c63193a9
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b2\b20fbc7ff224a2c7f09d0e71c63193a9
+    projectPath: Library\Artifacts\b2\b20fbc7ff224a2c7f09d0e71c63193a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b3\b3164464da35466074197db279a67837
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b3\b3164464da35466074197db279a67837
+    projectPath: Library\Artifacts\b3\b3164464da35466074197db279a67837
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bb\bbe713644665fd60201333266a7b0ea5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\bb\bbe713644665fd60201333266a7b0ea5
+    projectPath: Library\Artifacts\bb\bbe713644665fd60201333266a7b0ea5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\bed86ea6a722099b2e3861ecaee20841
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\be\bed86ea6a722099b2e3861ecaee20841
+    projectPath: Library\Artifacts\be\bed86ea6a722099b2e3861ecaee20841
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c5\c5c5671bfd43735154bc48ad3491f044
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c5\c5c5671bfd43735154bc48ad3491f044
+    projectPath: Library\Artifacts\c5\c5c5671bfd43735154bc48ad3491f044
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c7\c7d2d4c78b43faf34af4bd1515420d06
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c7\c7d2d4c78b43faf34af4bd1515420d06
+    projectPath: Library\Artifacts\c7\c7d2d4c78b43faf34af4bd1515420d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\cacbb11ecdd77dc8fdd7dcac6fef1126
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ca\cacbb11ecdd77dc8fdd7dcac6fef1126
+    projectPath: Library\Artifacts\ca\cacbb11ecdd77dc8fdd7dcac6fef1126
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb96ea01279616a535ac6a652b5fd42c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\cb\cb96ea01279616a535ac6a652b5fd42c
+    projectPath: Library\Artifacts\cb\cb96ea01279616a535ac6a652b5fd42c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d8\d8792b3428bdbc5a50dd4ef219d11846
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d8\d8792b3428bdbc5a50dd4ef219d11846
+    projectPath: Library\Artifacts\d8\d8792b3428bdbc5a50dd4ef219d11846
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d9\d95a02db7bfa9b44e9ab1ac8e882a320
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d9\d95a02db7bfa9b44e9ab1ac8e882a320
+    projectPath: Library\Artifacts\d9\d95a02db7bfa9b44e9ab1ac8e882a320
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dc3231380241c4d836d363e281682ba1
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\dc\dc3231380241c4d836d363e281682ba1
+    projectPath: Library\Artifacts\dc\dc3231380241c4d836d363e281682ba1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\de\de24d098ae61ae75c7cb8c39fcda6cc3
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\de\de24d098ae61ae75c7cb8c39fcda6cc3
+    projectPath: Library\Artifacts\de\de24d098ae61ae75c7cb8c39fcda6cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e0ad8ea335350702db4c234d3f84dae0
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e0\e0ad8ea335350702db4c234d3f84dae0
+    projectPath: Library\Artifacts\e0\e0ad8ea335350702db4c234d3f84dae0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e5\e50e0273668719c79a5ef67569f4ff42
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e5\e50e0273668719c79a5ef67569f4ff42
+    projectPath: Library\Artifacts\e5\e50e0273668719c79a5ef67569f4ff42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f09ec1b4d5ecf981c3438b5ccc5593e2
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f0\f09ec1b4d5ecf981c3438b5ccc5593e2
+    projectPath: Library\Artifacts\f0\f09ec1b4d5ecf981c3438b5ccc5593e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f2\f28cb425f331804480bddf826bbc7661
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f2\f28cb425f331804480bddf826bbc7661
+    projectPath: Library\Artifacts\f2\f28cb425f331804480bddf826bbc7661
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb67d30077de72515f7d4d322fbf59ac
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fb\fb67d30077de72515f7d4d322fbf59ac
+    projectPath: Library\Artifacts\fb\fb67d30077de72515f7d4d322fbf59ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\EditorInstance.json
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\expandedItems
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -508,102 +634,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\0\00a2b2f4f92c03530f6c0e4486caab08.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\0\00a2b2f4f92c03530f6c0e4486caab08.bin
-    projectPath: Library\ShaderCache\0\00a2b2f4f92c03530f6c0e4486caab08.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\01ac663dffa0e92cfb9c4c8930bbf5fc.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\0\01ac663dffa0e92cfb9c4c8930bbf5fc.bin
-    projectPath: Library\ShaderCache\0\01ac663dffa0e92cfb9c4c8930bbf5fc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\064843374a865ad8714751f83fa20379.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\0\064843374a865ad8714751f83fa20379.bin
-    projectPath: Library\ShaderCache\0\064843374a865ad8714751f83fa20379.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\10aafe7e9a97a1a01ce64257401d09aa.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\1\10aafe7e9a97a1a01ce64257401d09aa.bin
-    projectPath: Library\ShaderCache\1\10aafe7e9a97a1a01ce64257401d09aa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1cbedc6009e4f4349376c8e403c33dac.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\1\1cbedc6009e4f4349376c8e403c33dac.bin
-    projectPath: Library\ShaderCache\1\1cbedc6009e4f4349376c8e403c33dac.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\36ed6cfaed0e41f27667d11318e8a44e.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\3\36ed6cfaed0e41f27667d11318e8a44e.bin
-    projectPath: Library\ShaderCache\3\36ed6cfaed0e41f27667d11318e8a44e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4adf193a20ea893ed44eccf5d58a0883.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\4\4adf193a20ea893ed44eccf5d58a0883.bin
-    projectPath: Library\ShaderCache\4\4adf193a20ea893ed44eccf5d58a0883.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5b58a9155804b4f327523fdb6bd2dce5.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\5\5b58a9155804b4f327523fdb6bd2dce5.bin
-    projectPath: Library\ShaderCache\5\5b58a9155804b4f327523fdb6bd2dce5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\63911119275d1ce0e3094f0434780710.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\6\63911119275d1ce0e3094f0434780710.bin
-    projectPath: Library\ShaderCache\6\63911119275d1ce0e3094f0434780710.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\71b13b0d85eaafe2ee91fc7e78c11535.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\7\71b13b0d85eaafe2ee91fc7e78c11535.bin
-    projectPath: Library\ShaderCache\7\71b13b0d85eaafe2ee91fc7e78c11535.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\7579674f01ccbd9bf218b990a6b00495.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\7\7579674f01ccbd9bf218b990a6b00495.bin
-    projectPath: Library\ShaderCache\7\7579674f01ccbd9bf218b990a6b00495.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\842c4bd05433d91360b1f7c51cfb5a90.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\8\842c4bd05433d91360b1f7c51cfb5a90.bin
-    projectPath: Library\ShaderCache\8\842c4bd05433d91360b1f7c51cfb5a90.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\99023b0aaeb2a657dce9828df0554bb3.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\9\99023b0aaeb2a657dce9828df0554bb3.bin
-    projectPath: Library\ShaderCache\9\99023b0aaeb2a657dce9828df0554bb3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9c7ba1c23f4eba548482cc9d12236987.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\9\9c7ba1c23f4eba548482cc9d12236987.bin
-    projectPath: Library\ShaderCache\9\9c7ba1c23f4eba548482cc9d12236987.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d37861b6d54884d6a53e27f060d730fd.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\d\d37861b6d54884d6a53e27f060d730fd.bin
-    projectPath: Library\ShaderCache\d\d37861b6d54884d6a53e27f060d730fd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\ea0e2829c763acd7bc0375b0fb402a6e.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\e\ea0e2829c763acd7bc0375b0fb402a6e.bin
-    projectPath: Library\ShaderCache\e\ea0e2829c763acd7bc0375b0fb402a6e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -616,33 +646,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\46b7a0-dbc40315714b93b4fb.json
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\StateCache\Hierarchy\46b7a0-dbc40315714b93b4fb.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-dbc40315714b93b4fb.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\StateCache\Hierarchy\46b7a0-mainStage.json
     projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\d69a67-dbc40315714b93b4fb.json
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\StateCache\SceneView\d69a67-dbc40315714b93b4fb.json
-    projectPath: Library\StateCache\SceneView\d69a67-dbc40315714b93b4fb.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\StateCache\SceneView\d69a67-mainStage.json
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\StateCache\SceneView\d69a67-mainStage.json
     projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -652,9 +664,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+  - path: ProjectSettings\TagManager.asset
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -664,9 +676,345 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\ProcessJobs\365f530180a2daac044a3f6764b499d0.bakert
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\ProcessJobs\365f530180a2daac044a3f6764b499d0.bakert
+    projectPath: Temp\ProcessJobs\365f530180a2daac044a3f6764b499d0.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\e245310a684cf3dde6fa7a34655085a8.bakert
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\ProcessJobs\e245310a684cf3dde6fa7a34655085a8.bakert
+    projectPath: Temp\ProcessJobs\e245310a684cf3dde6fa7a34655085a8.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-046c2fb9fa215b543a7c26013185b697
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-046c2fb9fa215b543a7c26013185b697
+    projectPath: Temp\UnityTempFile-046c2fb9fa215b543a7c26013185b697
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0b7824fd8e9e268478349c574dc94d15
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-0b7824fd8e9e268478349c574dc94d15
+    projectPath: Temp\UnityTempFile-0b7824fd8e9e268478349c574dc94d15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1253c244d1bcdbc4ab67b3179123d175
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1253c244d1bcdbc4ab67b3179123d175
+    projectPath: Temp\UnityTempFile-1253c244d1bcdbc4ab67b3179123d175
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-13a87bc7a58eb014e956eca9f7fa9a80
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-13a87bc7a58eb014e956eca9f7fa9a80
+    projectPath: Temp\UnityTempFile-13a87bc7a58eb014e956eca9f7fa9a80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1506983cec465404c8eafb6906446545
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1506983cec465404c8eafb6906446545
+    projectPath: Temp\UnityTempFile-1506983cec465404c8eafb6906446545
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1776d53a0e5c9694aa1253ec77d3e8ff
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1776d53a0e5c9694aa1253ec77d3e8ff
+    projectPath: Temp\UnityTempFile-1776d53a0e5c9694aa1253ec77d3e8ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1afdbf68a3850cd4c9d1542b77615c76
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1afdbf68a3850cd4c9d1542b77615c76
+    projectPath: Temp\UnityTempFile-1afdbf68a3850cd4c9d1542b77615c76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-25af6c341fc151f4abc72ae95ff55070
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-25af6c341fc151f4abc72ae95ff55070
+    projectPath: Temp\UnityTempFile-25af6c341fc151f4abc72ae95ff55070
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3126f51d473a9884da51ec176433962e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-3126f51d473a9884da51ec176433962e
+    projectPath: Temp\UnityTempFile-3126f51d473a9884da51ec176433962e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-32228abcb489eee4384cd3fc400d34b6
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-32228abcb489eee4384cd3fc400d34b6
+    projectPath: Temp\UnityTempFile-32228abcb489eee4384cd3fc400d34b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3c7ee00531a1e6847b8f4fe84755e163
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-3c7ee00531a1e6847b8f4fe84755e163
+    projectPath: Temp\UnityTempFile-3c7ee00531a1e6847b8f4fe84755e163
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-417136468ea3dc14a843af58865f7a38
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-417136468ea3dc14a843af58865f7a38
+    projectPath: Temp\UnityTempFile-417136468ea3dc14a843af58865f7a38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-42cbb23cf5e1b85478c0026c2b0e7b73
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-42cbb23cf5e1b85478c0026c2b0e7b73
+    projectPath: Temp\UnityTempFile-42cbb23cf5e1b85478c0026c2b0e7b73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-437edad82507ee742ae04759f5dca5b9
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-437edad82507ee742ae04759f5dca5b9
+    projectPath: Temp\UnityTempFile-437edad82507ee742ae04759f5dca5b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-446e6bd7edfe4fb48be2b182ce0bd340
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-446e6bd7edfe4fb48be2b182ce0bd340
+    projectPath: Temp\UnityTempFile-446e6bd7edfe4fb48be2b182ce0bd340
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-474b286c55a1e6a49a370f59489d620e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-474b286c55a1e6a49a370f59489d620e
+    projectPath: Temp\UnityTempFile-474b286c55a1e6a49a370f59489d620e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4786781f445b8bf4eb5d197a54610e20
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4786781f445b8bf4eb5d197a54610e20
+    projectPath: Temp\UnityTempFile-4786781f445b8bf4eb5d197a54610e20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4c6b7ef3546a3c7469535325966cbca9
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4c6b7ef3546a3c7469535325966cbca9
+    projectPath: Temp\UnityTempFile-4c6b7ef3546a3c7469535325966cbca9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-501ebc35d5004fc4c8beae383c30443f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-501ebc35d5004fc4c8beae383c30443f
+    projectPath: Temp\UnityTempFile-501ebc35d5004fc4c8beae383c30443f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-51ef751509bcf3341a7409766c13f15d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-51ef751509bcf3341a7409766c13f15d
+    projectPath: Temp\UnityTempFile-51ef751509bcf3341a7409766c13f15d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5315b3e56a440264695b1d97c99b5a0b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-5315b3e56a440264695b1d97c99b5a0b
+    projectPath: Temp\UnityTempFile-5315b3e56a440264695b1d97c99b5a0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-55ba861a305bf854c935e2e832681de5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-55ba861a305bf854c935e2e832681de5
+    projectPath: Temp\UnityTempFile-55ba861a305bf854c935e2e832681de5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5e498e3109a40034bb9a8fa49e0e7400
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-5e498e3109a40034bb9a8fa49e0e7400
+    projectPath: Temp\UnityTempFile-5e498e3109a40034bb9a8fa49e0e7400
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6aa7eb01dd4f9144fb79f5567769f484
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-6aa7eb01dd4f9144fb79f5567769f484
+    projectPath: Temp\UnityTempFile-6aa7eb01dd4f9144fb79f5567769f484
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c7b161cade1e9f4ca75334b30faac82
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-6c7b161cade1e9f4ca75334b30faac82
+    projectPath: Temp\UnityTempFile-6c7b161cade1e9f4ca75334b30faac82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c96c985891b7c147a21ec76c8eb1f94
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-6c96c985891b7c147a21ec76c8eb1f94
+    projectPath: Temp\UnityTempFile-6c96c985891b7c147a21ec76c8eb1f94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-787a8895ebcf2664eba3652a61cb146b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-787a8895ebcf2664eba3652a61cb146b
+    projectPath: Temp\UnityTempFile-787a8895ebcf2664eba3652a61cb146b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-865afbd55448e4842986dc185ffd739e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-865afbd55448e4842986dc185ffd739e
+    projectPath: Temp\UnityTempFile-865afbd55448e4842986dc185ffd739e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-87de92904beda6d44ae47206a16505b5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-87de92904beda6d44ae47206a16505b5
+    projectPath: Temp\UnityTempFile-87de92904beda6d44ae47206a16505b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8ab4880e574b44d4094432693d25a004
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8ab4880e574b44d4094432693d25a004
+    projectPath: Temp\UnityTempFile-8ab4880e574b44d4094432693d25a004
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8c0ffe866114eeb40a95f9b5f2fbc253
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8c0ffe866114eeb40a95f9b5f2fbc253
+    projectPath: Temp\UnityTempFile-8c0ffe866114eeb40a95f9b5f2fbc253
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8ca50bc4d1286f843bc85953a1ad8a2b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8ca50bc4d1286f843bc85953a1ad8a2b
+    projectPath: Temp\UnityTempFile-8ca50bc4d1286f843bc85953a1ad8a2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-90a7858e14b59df45bf8695a5fa552b6
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-90a7858e14b59df45bf8695a5fa552b6
+    projectPath: Temp\UnityTempFile-90a7858e14b59df45bf8695a5fa552b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94858588b0b8d5240ba274269d7b26fc
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-94858588b0b8d5240ba274269d7b26fc
+    projectPath: Temp\UnityTempFile-94858588b0b8d5240ba274269d7b26fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9d82675a4b15a5341a9b405d95aac818
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-9d82675a4b15a5341a9b405d95aac818
+    projectPath: Temp\UnityTempFile-9d82675a4b15a5341a9b405d95aac818
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a5705c3fd726fc44d858c95fa89a0153
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-a5705c3fd726fc44d858c95fa89a0153
+    projectPath: Temp\UnityTempFile-a5705c3fd726fc44d858c95fa89a0153
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a60564df4d3bc2b40bbc063e47802faa
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-a60564df4d3bc2b40bbc063e47802faa
+    projectPath: Temp\UnityTempFile-a60564df4d3bc2b40bbc063e47802faa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b646c775fd02d2f46a25d902012b715a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b646c775fd02d2f46a25d902012b715a
+    projectPath: Temp\UnityTempFile-b646c775fd02d2f46a25d902012b715a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bac7f5a001a26b748a4dfc90a524700b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-bac7f5a001a26b748a4dfc90a524700b
+    projectPath: Temp\UnityTempFile-bac7f5a001a26b748a4dfc90a524700b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bc96235026f1d4e438b41b64fb899603
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-bc96235026f1d4e438b41b64fb899603
+    projectPath: Temp\UnityTempFile-bc96235026f1d4e438b41b64fb899603
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bf5c43ce0811d834ea1dea7387598d41
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-bf5c43ce0811d834ea1dea7387598d41
+    projectPath: Temp\UnityTempFile-bf5c43ce0811d834ea1dea7387598d41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c3f9c87217afb644db4115b59b11513f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-c3f9c87217afb644db4115b59b11513f
+    projectPath: Temp\UnityTempFile-c3f9c87217afb644db4115b59b11513f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c6ccc596f2b7ea04384c0415faf00068
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-c6ccc596f2b7ea04384c0415faf00068
+    projectPath: Temp\UnityTempFile-c6ccc596f2b7ea04384c0415faf00068
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cdd90b21676c43345953953fc7da6f85
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-cdd90b21676c43345953953fc7da6f85
+    projectPath: Temp\UnityTempFile-cdd90b21676c43345953953fc7da6f85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cec841545076c094291d014f872efac5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-cec841545076c094291d014f872efac5
+    projectPath: Temp\UnityTempFile-cec841545076c094291d014f872efac5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d9bee5ea66286734580edd3c1f48541a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-d9bee5ea66286734580edd3c1f48541a
+    projectPath: Temp\UnityTempFile-d9bee5ea66286734580edd3c1f48541a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e5858dada2ead0c4394d2db124d049b6
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e5858dada2ead0c4394d2db124d049b6
+    projectPath: Temp\UnityTempFile-e5858dada2ead0c4394d2db124d049b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e586404c3b22ad14babe225f2a54e9d1
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e586404c3b22ad14babe225f2a54e9d1
+    projectPath: Temp\UnityTempFile-e586404c3b22ad14babe225f2a54e9d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f5bbc468e3533e14cb3627c1c112afd8
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f5bbc468e3533e14cb3627c1c112afd8
+    projectPath: Temp\UnityTempFile-f5bbc468e3533e14cb3627c1c112afd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f7666f2d45ee5f140bb16fb2e6234597
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f7666f2d45ee5f140bb16fb2e6234597
+    projectPath: Temp\UnityTempFile-f7666f2d45ee5f140bb16fb2e6234597
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f76c991f2e82f504286a6440fb0495fe
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f76c991f2e82f504286a6440fb0495fe
+    projectPath: Temp\UnityTempFile-f76c991f2e82f504286a6440fb0495fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fb68a15bc822df642a10353ac3098e68
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fb68a15bc822df642a10353ac3098e68
+    projectPath: Temp\UnityTempFile-fb68a15bc822df642a10353ac3098e68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fb9f1e11018dbc04292ca617df96996a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fb9f1e11018dbc04292ca617df96996a
+    projectPath: Temp\UnityTempFile-fb9f1e11018dbc04292ca617df96996a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fd22c1622e13b0c4c80234473fb331b3
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fd22c1622e13b0c4c80234473fb331b3
+    projectPath: Temp\UnityTempFile-fd22c1622e13b0c4c80234473fb331b3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

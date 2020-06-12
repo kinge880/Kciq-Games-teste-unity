@@ -21,6 +21,7 @@ namespace UnityStandardAssets._2D
         {
             // Setting up the reference.
             m_Player = GameObject.FindGameObjectWithTag("Player").transform;
+            transform.position = new Vector3(m_Player.position.x, m_Player.position.y, transform.position.z);
         }
 
 
