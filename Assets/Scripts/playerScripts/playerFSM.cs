@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 
 public class playerFSM : MonoBehaviour
 {
+    #region Variáveis  
     [SerializeField] float walkSpeed = 1.5f; //velocidade de movimento do player
     [SerializeField] float jumpForce = 110f; //força do pulo
     [SerializeField] float dashDuration = 0.625f;
@@ -13,17 +14,23 @@ public class playerFSM : MonoBehaviour
     [SerializeField] PlayerState state;
     [SerializeField] Transform groundCheck; //objeto que toca o chão realizar a verificação
     [SerializeField] LayerMask wathIsGround; //identifica o que é o chão
-    
+    [SerializeField] float maxAngle =35;
+    [SerializeField] float hitSize = 2f;
+
     private bool is_on_floor; //verifica se o player ta no chão
     private bool isJump; //verifica se o player ta pulando
     private bool isDash;
+    private float angle = 0;
     private int dashDirection;
     private float horizontal; //capta o movimento horizontal
     private float dashTimeLeft;
+    private Vector2 forceDirection = Vector2.zero;
     private Rigidbody2D playerBody;
     private Animator animations;
     private SpriteRenderer playerSprite;
+    #endregion
 
+    #region Start e FixedUpdate
     void Start()
     {
         playerBody = GetComponent<Rigidbody2D>(); 
@@ -52,7 +59,9 @@ public class playerFSM : MonoBehaviour
         }
 
     }
+    #endregion
 
+    #region Aplicação de movimento e ajustes no sprite, colisão etc
     public void Update_velocity()
     {
         //define a direção do sprite, direção das áreas de colisão e outras coisas que devem virar junto do player
@@ -66,7 +75,58 @@ public class playerFSM : MonoBehaviour
                 break;
         }
     }
-    
+
+    public void Move_and_normalize_slope(float directionX, float speed)
+    {
+        angle = 0;
+        forceDirection = Vector2.zero;
+        RaycastHit2D hitDirection = Physics2D.Raycast(transform.position, Vector2.down, hitSize, wathIsGround); //cria um raycast apontando para baixo, ele vai detectar o chão e o angulo do chão
+        Debug.DrawRay(transform.position, Vector2.down * hitSize, Color.yellow);  //desenha o raycast no editor
+
+        if (hitDirection.collider)
+        {
+            Debug.DrawRay(transform.position, hitDirection.normal, Color.blue);  //desenha o raycast do vetor oposto ao angulo do chão
+
+            //captura a direção do player
+            switch (horizontal)
+            {
+                case 1:
+                    forceDirection = new Vector2(hitDirection.normal.y, -hitDirection.normal.x);
+                    break;
+                case -1:
+                    forceDirection = new Vector2(-hitDirection.normal.y, hitDirection.normal.x);
+                    break;
+                default:
+                    forceDirection = new Vector2(hitDirection.normal.y, hitDirection.normal.x);
+                    break;
+            }
+
+            RaycastHit2D hitAngle = Physics2D.Raycast(transform.position, forceDirection, 0.5f, wathIsGround); //cria um raycast que detecta o angulo do chão a frente
+            Debug.DrawRay(transform.position, hitAngle.normal, Color.white);
+            angle = Vector2.Angle(hitAngle.normal, Vector2.up); //captura o angulo do chão
+
+            //verifica se o angulo não é maior que o limite definido no inspector
+            if (angle < maxAngle)
+            {
+                Vector2 moveDirection = forceDirection * Mathf.Abs(directionX) * speed; //captura as variaveis e move o player
+                playerBody.velocity = moveDirection; //movimenta o player no angulo correto
+                Debug.DrawRay(transform.position, forceDirection * Mathf.Abs(directionX), Color.cyan); //desenha no editor a direção  deve ser seguida
+            }
+            else
+            {
+                //Podemos colcoar animações aqui, e outras interações pra visualmente explicar pq ele n sobe, etc
+                Debug.DrawRay(transform.position, forceDirection * Mathf.Abs(directionX), Color.red); //mostra o raycast que indica um angulo maior do que o limite
+            }
+        }
+        else
+        {
+            playerBody.velocity = new Vector2(horizontal * walkSpeed, playerBody.velocity.y);
+        }
+
+    }
+    #endregion
+
+    #region Maquina de estado
     //Estado para o player parado e andando
     public void Standing()
     {
@@ -82,7 +142,7 @@ public class playerFSM : MonoBehaviour
             animations.SetBool("onWalk", true);
         }
 
-        playerBody.velocity = new Vector2(horizontal * walkSpeed, playerBody.velocity.y);
+        Move_and_normalize_slope(horizontal, walkSpeed);
     }
 
     //Estado para o player pulando
@@ -108,7 +168,7 @@ public class playerFSM : MonoBehaviour
 
         Update_velocity();
         Double_jump_transition();
-        playerBody.velocity = new Vector2(horizontal * walkSpeed, playerBody.velocity.y);
+        Move_and_normalize_slope(horizontal, walkSpeed);
     }
 
     public void Jump_transition()
@@ -142,8 +202,8 @@ public class playerFSM : MonoBehaviour
             animations.Rebind();
             state = PlayerState.STANDING;
         }
-
-        playerBody.velocity = new Vector2(horizontal * walkSpeed, playerBody.velocity.y);
+        
+        Move_and_normalize_slope(horizontal, walkSpeed);
     }
 
     public void Double_jump_transition()
@@ -193,14 +253,14 @@ public class playerFSM : MonoBehaviour
             }
         }
     }
+    #endregion  
 
-    //captura a entrada da tecla de pulo
+    #region Inputs do Player
     public void Set_jump(InputAction.CallbackContext context)
     {
         isJump = context.performed;
     }
 
-    //captura a entrada da tecla de movimento horizontal
     public void Set_movement(InputAction.CallbackContext context)
     {
         horizontal = context.ReadValue<float>();
@@ -210,5 +270,5 @@ public class playerFSM : MonoBehaviour
     {
         isDash = context.performed;
     }
-
+    #endregion  
 }

@@ -27,6 +27,7 @@ public class playerFSMControl : MonoBehaviour
     void Start()
     {
         playerBody = GetComponent<CharacterController>();
+        playerBody.detectCollisions = true;
         animations = GetComponent<Animator>(); 
         playerSprite = GetComponent<SpriteRenderer>(); 
         state = PlayerState.STANDING; 
@@ -53,6 +54,10 @@ public class playerFSMControl : MonoBehaviour
 
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Debug.Log("collision"); 
+    }
     public void Update_velocity()
     {
         //define a direção do sprite, direção das áreas de colisão e outras coisas que devem virar junto do player
