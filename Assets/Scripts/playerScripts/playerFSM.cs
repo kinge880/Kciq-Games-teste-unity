@@ -94,7 +94,8 @@ public class playerFSM : MonoBehaviour
         if (playerBody.velocity.y > 0)
         {
             animations.SetBool("onJump", true);
-        }else if(playerBody.velocity.y < 0)
+        }
+        else if(playerBody.velocity.y < 0)
         {
             animations.SetBool("onFall", true);
         }
@@ -107,6 +108,7 @@ public class playerFSM : MonoBehaviour
 
         Update_velocity();
         Double_jump_transition();
+        playerBody.velocity = new Vector2(horizontal * walkSpeed, playerBody.velocity.y);
     }
 
     public void Jump_transition()
@@ -116,7 +118,6 @@ public class playerFSM : MonoBehaviour
 
         if (isJump)
         {
-            animations.SetBool("onWalk", false);
             playerBody.AddForce(new Vector2(0, jumpForce));
             isJump = false;
             state = PlayerState.JUMPING;
@@ -124,7 +125,6 @@ public class playerFSM : MonoBehaviour
 
         if (!is_on_floor && playerBody.velocity.y < -0.5) //botei -0.1 pq o unity gera valores para y muito pequenos por conta de erro de ponto flutuante como "-2.443569E-08", mas isso impede uma verificação de < 0
         {
-            animations.SetBool("onWalk", false);
             state = PlayerState.JUMPING;
             Debug.Log(playerBody.velocity.y);
         }
@@ -152,7 +152,6 @@ public class playerFSM : MonoBehaviour
         
         if (isJump)
         {
-            animations.SetBool("onFall", false);
             playerBody.velocity = new Vector2(playerBody.velocity.x, 0);
             playerBody.AddForce(new Vector2(0, jumpForce * 1.4f));
             isJump = false;
@@ -180,7 +179,6 @@ public class playerFSM : MonoBehaviour
         {
             //seta o tempo de duração do dash em uma váriavel reciclavel, com dashDuration podendo ser definido no inspector
             dashTimeLeft = dashDuration;
-            animations.SetBool("onWalk", false);
             isDash = false;
             state = PlayerState.DASHING;
 
