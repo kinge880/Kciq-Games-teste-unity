@@ -22,7 +22,7 @@ public class playerFSM : MonoBehaviour
     private bool isDash;
     private float angle = 0;
     private int dashDirection;
-    private float horizontal; //capta o movimento horizontal
+    public float horizontal; //capta o movimento horizontal
     private float dashTimeLeft;
     private Vector2 forceDirection = Vector2.zero;
     private Rigidbody2D playerBody;
