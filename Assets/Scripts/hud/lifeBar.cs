@@ -10,7 +10,7 @@ public class lifeBar : MonoBehaviour
     [SerializeField] float maxLife;
     [SerializeField] float speed = 3;
     private float oldLife;
-    private float currentTime = 0; 
+    private float currentTime = 0;
     private float normalizedValue;
     private Vector2 oldLifeBarSize;
     private Vector2 lifeBarSize = new Vector2();
@@ -21,9 +21,9 @@ public class lifeBar : MonoBehaviour
     {
         actualLife = maxLife;
         oldLife = actualLife;
+        lifeBarSize = lifeBarGUI.rectTransform.sizeDelta;
         oldLifeBarSize = lifeBarSize;
         lifeBarAnim = lifeBarGUI.GetComponent<Animation>();
-        lifeBarSize = lifeBarGUI.rectTransform.sizeDelta;
     }
 
     void FixedUpdate()
@@ -31,6 +31,7 @@ public class lifeBar : MonoBehaviour
         if (actualLife >= maxLife) //impede que a vida ultrapasse o máximo
         {
             actualLife = maxLife;
+            oldLife = actualLife;
         }
         else if (actualLife != oldLife) //quando a vida atual mudar inicia a corrotina
         {
@@ -54,9 +55,9 @@ public class lifeBar : MonoBehaviour
     {
 
         while (currentTime <= speed) //essa parte ainda ta com problema, em execução faz exatamente o que quero, alterando a vida com base em uma velocidade definida no inspecto, entretanto o while nunca vai finalizar
-            // se eu tentar organizar o código para ele finalizar, o movimento learp não funciona, como ta agr pode gerar problemas de desempenho e precisa ser melhorado
+                                     // se eu tentar organizar o código para ele finalizar, o movimento learp não funciona, como ta agr pode gerar problemas de desempenho e precisa ser melhorado
         {
-            if (currentTime < Time.fixedDeltaTime) 
+            if (currentTime < Time.fixedDeltaTime)
             {
                 currentTime += Time.fixedDeltaTime;
                 normalizedValue = currentTime / speed;

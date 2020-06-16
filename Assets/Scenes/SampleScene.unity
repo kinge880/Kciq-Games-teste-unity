@@ -2510,7 +2510,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 296287846}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
@@ -2603,7 +2603,7 @@ MonoBehaviour:
   lifeBarGUI: {fileID: 7865564591998690369}
   actualLife: 50
   maxLife: 200
-  speed: 3
+  speed: 1.5
 --- !u!1 &647789708
 GameObject:
   m_ObjectHideFlags: 0

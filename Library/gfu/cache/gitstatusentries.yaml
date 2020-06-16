@@ -13,1866 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-15T19:11:49.182-05:00
-  initializedAtString: 2020-06-15T19:06:41.555-05:00
+  lastUpdatedAtString: 2020-06-15T21:16:46.598-05:00
+  initializedAtString: 2020-06-15T20:51:51.545-05:00
   entries:
-  - path: .vs\Kciq-Games-teste-unity\v16\.suo
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\.vs\Kciq-Games-teste-unity\v16\.suo
-    projectPath: .vs\Kciq-Games-teste-unity\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\animations\lifeBar.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\animations\lifeBar.meta
-    projectPath: Assets\animations\lifeBar.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\animations\lifeBar\lowLife.anim
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\animations\lifeBar\lowLife.anim
-    projectPath: Assets\animations\lifeBar\lowLife.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\animations\lifeBar\lowLife.anim.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\animations\lifeBar\lowLife.anim.meta
-    projectPath: Assets\animations\lifeBar\lowLife.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\graphic\bullet\Individual Sprites.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-0.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-0.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-0.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-0.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-1.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-1.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-1.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-1.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-2.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-2.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-2.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-2.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-3.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-3.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-3.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-3.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-4.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-4.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-4.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-attack-4.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-attack-4.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-0.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-0.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-0.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-0.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-1.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-1.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-1.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-1.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-2.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-2.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-2.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-2.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-3.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-3.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-3.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-die-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-die-3.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-die-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-0.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-0.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-0.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-0.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-1.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-1.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-1.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-1.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-2.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-2.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-2.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-2.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-3.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-3.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-3.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-hurt-3.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-hurt-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-0.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-0.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-0.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-0.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-1.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-1.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-1.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-1.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-2.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-2.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-2.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-2.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-3.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-3.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-3.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-idle-3.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-idle-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-0.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-0.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-0.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-0.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-1.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-1.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-1.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-1.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-2.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-2.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-2.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-2.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-3.png
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-3.png.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-3.png.import
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\Individual Sprites\slime-move-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\Individual
-      Sprites\slime-move-3.png.import.meta
-    projectPath: Assets\graphic\bullet\Individual Sprites\slime-move-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\New Piskel-1.png.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\New
-      Piskel-1.png.png.import
-    projectPath: Assets\graphic\bullet\New Piskel-1.png.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\New Piskel-1.png.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\New
-      Piskel-1.png.png.import.meta
-    projectPath: Assets\graphic\bullet\New Piskel-1.png.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\slime-Sheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\slime-Sheet.png.import
-    projectPath: Assets\graphic\bullet\slime-Sheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\slime-Sheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\slime-Sheet.png.import.meta
-    projectPath: Assets\graphic\bullet\slime-Sheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\turret_bullet\turret_mk1_bullet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\turret_bullet\turret_mk1_bullet.png.import
-    projectPath: Assets\graphic\bullet\turret_bullet\turret_mk1_bullet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\bullet\turret_bullet\turret_mk1_bullet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\bullet\turret_bullet\turret_mk1_bullet.png.import.meta
-    projectPath: Assets\graphic\bullet\turret_bullet\turret_mk1_bullet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\effects\white.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\effects\white.png.import
-    projectPath: Assets\graphic\effects\white.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\effects\white.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\effects\white.png.import.meta
-    projectPath: Assets\graphic\effects\white.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns.meta
-    projectPath: Assets\graphic\guns.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns\spritesheet.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns\spritesheet.png
-    projectPath: Assets\graphic\guns\spritesheet.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns\spritesheet.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns\spritesheet.png.meta
-    projectPath: Assets\graphic\guns\spritesheet.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns\spritesheet.png.import
-    projectPath: Assets\graphic\guns\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns\spritesheet.png.import.meta
-    projectPath: Assets\graphic\guns\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns\Thanks.txt
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns\Thanks.txt
-    projectPath: Assets\graphic\guns\Thanks.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\guns\Thanks.txt.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\guns\Thanks.txt.meta
-    projectPath: Assets\graphic\guns\Thanks.txt.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\green_button12.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\green_button12.png
-    projectPath: Assets\graphic\hud\green_button12.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\green_button12.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\green_button12.png.meta
-    projectPath: Assets\graphic\hud\green_button12.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\green_button12.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\green_button12.png.import
-    projectPath: Assets\graphic\hud\green_button12.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\green_button12.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\green_button12.png.import.meta
-    projectPath: Assets\graphic\hud\green_button12.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\greenbar.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\greenbar.png
-    projectPath: Assets\graphic\hud\greenbar.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\greenbar.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\greenbar.png.meta
-    projectPath: Assets\graphic\hud\greenbar.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\greenbar.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\greenbar.png.import
-    projectPath: Assets\graphic\hud\greenbar.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\greenbar.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\greenbar.png.import.meta
-    projectPath: Assets\graphic\hud\greenbar.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\red_button07.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\red_button07.png
-    projectPath: Assets\graphic\hud\red_button07.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\red_button07.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\red_button07.png.meta
-    projectPath: Assets\graphic\hud\red_button07.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\red_button07.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\red_button07.png.import
-    projectPath: Assets\graphic\hud\red_button07.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\hud\red_button07.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\hud\red_button07.png.import.meta
-    projectPath: Assets\graphic\hud\red_button07.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\ligth\580b585b2edbce24c47b26d9.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\ligth\580b585b2edbce24c47b26d9.png.import
-    projectPath: Assets\graphic\ligth and shadows\ligth\580b585b2edbce24c47b26d9.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\ligth\580b585b2edbce24c47b26d9.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\ligth\580b585b2edbce24c47b26d9.png.import.meta
-    projectPath: Assets\graphic\ligth and shadows\ligth\580b585b2edbce24c47b26d9.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\ligth\light.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\ligth\light.png.import
-    projectPath: Assets\graphic\ligth and shadows\ligth\light.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\ligth\light.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\ligth\light.png.import.meta
-    projectPath: Assets\graphic\ligth and shadows\ligth\light.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\ligth\spot.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\ligth\spot.png.import
-    projectPath: Assets\graphic\ligth and shadows\ligth\spot.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\ligth\spot.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\ligth\spot.png.import.meta
-    projectPath: Assets\graphic\ligth and shadows\ligth\spot.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\shadow\caster.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\shadow\caster.png.import
-    projectPath: Assets\graphic\ligth and shadows\shadow\caster.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\ligth and shadows\shadow\caster.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\ligth
-      and shadows\shadow\caster.png.import.meta
-    projectPath: Assets\graphic\ligth and shadows\shadow\caster.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\acid2-14x67.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\acid2-14x67.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\acid2-14x67.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\acid2-14x67.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\acid2-14x67.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\acid2-14x67.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\andromalius-57x88.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\andromalius-57x88.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\andromalius-57x88.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\andromalius-57x88.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\andromalius-57x88.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\andromalius-57x88.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\disciple-45x51.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\disciple-45x51.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\disciple-45x51.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\disciple-45x51.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\disciple-45x51.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\disciple-45x51.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\flameball-32x32.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\flameball-32x32.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\flameball-32x32.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\flameball-32x32.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\flameball-32x32.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\flameball-32x32.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\gnu-120x100.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\gnu-120x100.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\gnu-120x100.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\gnu-120x100.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\gnu-120x100.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\gnu-120x100.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-1-85x94.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-1-85x94.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-1-85x94.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-1-85x94.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-1-85x94.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-1-85x94.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-2-122x110.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-2-122x110.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-2-122x110.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-2-122x110.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-2-122x110.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-2-122x110.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-3-87x110.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-3-87x110.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-3-87x110.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-3-87x110.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-3-87x110.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-3-87x110.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-bullet-13x13.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-bullet-13x13.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-bullet-13x13.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-bullet-13x13.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\mage-bullet-13x13.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\mage-bullet-13x13.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\minion-45x66.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\minion-45x66.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\minion-45x66.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\minion-45x66.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\minion-45x66.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\minion-45x66.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\shadow-80x70.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\shadow-80x70.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\shadow-80x70.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\shadow-80x70.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\shadow-80x70.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\shadow-80x70.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\tentacles-25x90.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\tentacles-25x90.png.import
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\tentacles-25x90.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Boss\spritesheets\tentacles-25x90.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Boss\spritesheets\tentacles-25x90.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Boss\spritesheets\tentacles-25x90.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\compact\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\compact\spritesheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\compact\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\compact\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\compact\spritesheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\compact\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\descriptive\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\descriptive\spritesheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\descriptive\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\descriptive\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\descriptive\spritesheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_B\spritesheet\descriptive\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\compact\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\compact\spritesheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\compact\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\compact\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\compact\spritesheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\compact\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\descriptive\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\descriptive\spritesheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\descriptive\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\descriptive\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\descriptive\spritesheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_C\spritesheet\descriptive\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.txt
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.txt
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.txt.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.txt.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\compact\spritesheet.txt.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.txt
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.txt
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.txt.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.txt.meta
-    projectPath: Assets\graphic\sprites\enemys\crusher_enemy\free_crusher_enemy\style_D\spritesheet\descriptive\spritesheet.txt.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-0.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-0.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-0.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-0.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-1.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-1.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-1.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-2.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-2.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-2.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-3.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-3.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-3.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-4.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-4.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-4.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-attack-4.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-attack-4.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-0.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-0.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-0.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-0.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-1.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-1.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-1.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-2.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-2.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-2.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-3.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-3.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-3.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-die-3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-die-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-0.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-0.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-0.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-0.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-1.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-1.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-1.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-2.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-2.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-2.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-3.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-3.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-3.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-hurt-3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-hurt-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-0.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-0.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-0.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-0.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-1.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-1.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-1.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-2.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-2.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-2.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-3.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-3.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-3.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-idle-3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-idle-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-0.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-0.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-0.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-0.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-0.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-1.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-1.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-1.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-2.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-2.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-2.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-3.png
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-3.png.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-3.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\Individual
-      Sprites\slime-move-3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\Individual Sprites\slime-move-3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\slime-Sheet.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\slime-Sheet.png.import
-    projectPath: Assets\graphic\sprites\enemys\Slime\slime-Sheet.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\Slime\slime-Sheet.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\Slime\slime-Sheet.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\Slime\slime-Sheet.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk1.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk2.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk3.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk4.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk4.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk4.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_01_mk4.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_01_mk4.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_01_mk4.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk1.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk1.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk1.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk1.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk1.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk1.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk2.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk2.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk2.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk2.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk2.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk2.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk3.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk3.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk3.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk3.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk3.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk3.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk4.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk4.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk4.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\turret_02_mk4.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\turret_02_mk4.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\turret_02_mk4.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\weapons.png.import
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\weapons.png.import
-    projectPath: Assets\graphic\sprites\enemys\turret\weapons.png.import
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\graphic\sprites\enemys\turret\weapons.png.import.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\graphic\sprites\enemys\turret\weapons.png.import.meta
-    projectPath: Assets\graphic\sprites\enemys\turret\weapons.png.import.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Samples\playerMaterial.physicsMaterial2D
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Samples\playerMaterial.physicsMaterial2D
-    projectPath: Assets\Samples\playerMaterial.physicsMaterial2D
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Samples\Prefabs.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Samples\Prefabs.meta
-    projectPath: Assets\Samples\Prefabs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\Prefabs\LifeBar.prefab
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Samples\Prefabs\LifeBar.prefab
-    projectPath: Assets\Samples\Prefabs\LifeBar.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Samples\Prefabs\LifeBar.prefab.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Samples\Prefabs\LifeBar.prefab.meta
-    projectPath: Assets\Samples\Prefabs\LifeBar.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scenes\SampleScene.unity
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\hud.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\hud.meta
-    projectPath: Assets\Scripts\hud.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scripts\hud\lifeBar.cs
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\hud\lifeBar.cs
     projectPath: Assets\Scripts\hud\lifeBar.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\hud\lifeBar.cs.meta
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\hud\lifeBar.cs.meta
-    projectPath: Assets\Scripts\hud\lifeBar.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\playerScripts\playerFSM.cs
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\playerScripts\playerFSM.cs
-    projectPath: Assets\Scripts\playerScripts\playerFSM.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\scollScript.cs
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scripts\scollScript.cs
-    projectPath: Assets\Scripts\scollScript.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1882,714 +34,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\03\036f76f72de118fdfddafed13f30260c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\03\036f76f72de118fdfddafed13f30260c
-    projectPath: Library\Artifacts\03\036f76f72de118fdfddafed13f30260c
+  - path: Library\Artifacts\ab\ab076395f0b1b6a79bad47331aa029d3
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ab\ab076395f0b1b6a79bad47331aa029d3
+    projectPath: Library\Artifacts\ab\ab076395f0b1b6a79bad47331aa029d3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\05\05f4f1c17744c60fae9310b533b9b0e3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\05\05f4f1c17744c60fae9310b533b9b0e3
-    projectPath: Library\Artifacts\05\05f4f1c17744c60fae9310b533b9b0e3
+  - path: Library\Artifacts\d8\d8db10fc3de45e756f5a61fa7dbbdbf7
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d8\d8db10fc3de45e756f5a61fa7dbbdbf7
+    projectPath: Library\Artifacts\d8\d8db10fc3de45e756f5a61fa7dbbdbf7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\06\065431ae22129152680455629638de77
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\06\065431ae22129152680455629638de77
-    projectPath: Library\Artifacts\06\065431ae22129152680455629638de77
+  - path: Library\Artifacts\db\db6e2ae8b72d30b497f613bf1e75005d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\db\db6e2ae8b72d30b497f613bf1e75005d
+    projectPath: Library\Artifacts\db\db6e2ae8b72d30b497f613bf1e75005d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\08\08d05dc0a0ad8291efd34c6fd5a7db76
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\08\08d05dc0a0ad8291efd34c6fd5a7db76
-    projectPath: Library\Artifacts\08\08d05dc0a0ad8291efd34c6fd5a7db76
+  - path: Library\Artifacts\e7\e79cae12caf1f6f2d50b495dd5efe471
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e7\e79cae12caf1f6f2d50b495dd5efe471
+    projectPath: Library\Artifacts\e7\e79cae12caf1f6f2d50b495dd5efe471
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\09\0980f9d195701eee7c8094e227b6f499
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\09\0980f9d195701eee7c8094e227b6f499
-    projectPath: Library\Artifacts\09\0980f9d195701eee7c8094e227b6f499
+  - path: Library\Artifacts\eb\ebc9ca6a9657d0d5df2d6047e090a26c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\eb\ebc9ca6a9657d0d5df2d6047e090a26c
+    projectPath: Library\Artifacts\eb\ebc9ca6a9657d0d5df2d6047e090a26c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\0a\0a72f15249d69d7bcb0f78de54c36dd4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0a\0a72f15249d69d7bcb0f78de54c36dd4
-    projectPath: Library\Artifacts\0a\0a72f15249d69d7bcb0f78de54c36dd4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0b\0b26a941ee373eab3d6fb191732e8360
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0b\0b26a941ee373eab3d6fb191732e8360
-    projectPath: Library\Artifacts\0b\0b26a941ee373eab3d6fb191732e8360
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0d\0d0140d9289034cb98ef3098aa2e9601
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0d\0d0140d9289034cb98ef3098aa2e9601
-    projectPath: Library\Artifacts\0d\0d0140d9289034cb98ef3098aa2e9601
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0d\0df055e2dbeb8cdeb72ca626e1f54ca6
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0d\0df055e2dbeb8cdeb72ca626e1f54ca6
-    projectPath: Library\Artifacts\0d\0df055e2dbeb8cdeb72ca626e1f54ca6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\0e\0ebedce5e2c261c30e9e65a1eafbedc3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\0e\0ebedce5e2c261c30e9e65a1eafbedc3
-    projectPath: Library\Artifacts\0e\0ebedce5e2c261c30e9e65a1eafbedc3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\13\134bf481625694e715806123dae7745f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\13\134bf481625694e715806123dae7745f
-    projectPath: Library\Artifacts\13\134bf481625694e715806123dae7745f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\15\15f7ea6b5b82b5f5af9aa6e15572979f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\15\15f7ea6b5b82b5f5af9aa6e15572979f
-    projectPath: Library\Artifacts\15\15f7ea6b5b82b5f5af9aa6e15572979f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\18\1891ffaeb67c24c0dc370e250858beb8
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\18\1891ffaeb67c24c0dc370e250858beb8
-    projectPath: Library\Artifacts\18\1891ffaeb67c24c0dc370e250858beb8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\19\1998605c008148afc73f57d8f6ee7bd3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\19\1998605c008148afc73f57d8f6ee7bd3
-    projectPath: Library\Artifacts\19\1998605c008148afc73f57d8f6ee7bd3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1a\1af9d5e746391038c6c34b7e12ed1d1d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\1a\1af9d5e746391038c6c34b7e12ed1d1d
-    projectPath: Library\Artifacts\1a\1af9d5e746391038c6c34b7e12ed1d1d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\22\2278cfeea263925ca4ec6d841962cb95
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\22\2278cfeea263925ca4ec6d841962cb95
-    projectPath: Library\Artifacts\22\2278cfeea263925ca4ec6d841962cb95
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\24\241e98e352bfaa02e5be845db24064bd
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\24\241e98e352bfaa02e5be845db24064bd
-    projectPath: Library\Artifacts\24\241e98e352bfaa02e5be845db24064bd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\27\27c2ef655b9d61bfce2399df4779a07f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\27\27c2ef655b9d61bfce2399df4779a07f
-    projectPath: Library\Artifacts\27\27c2ef655b9d61bfce2399df4779a07f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\2881e78db7aa347f81e8a3ff6376052d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\28\2881e78db7aa347f81e8a3ff6376052d
-    projectPath: Library\Artifacts\28\2881e78db7aa347f81e8a3ff6376052d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\28\28bd1957a4ea658985a3724606ce6bdb
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\28\28bd1957a4ea658985a3724606ce6bdb
-    projectPath: Library\Artifacts\28\28bd1957a4ea658985a3724606ce6bdb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\29\295057299332d206297da8a0b6b5d1a7
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\29\295057299332d206297da8a0b6b5d1a7
-    projectPath: Library\Artifacts\29\295057299332d206297da8a0b6b5d1a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\33\33cb92a1447d8817f21db44a13ad89ff
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\33\33cb92a1447d8817f21db44a13ad89ff
-    projectPath: Library\Artifacts\33\33cb92a1447d8817f21db44a13ad89ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\35\35e1cc2ae7cd3eccd4c1739d71fd8f27
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\35\35e1cc2ae7cd3eccd4c1739d71fd8f27
-    projectPath: Library\Artifacts\35\35e1cc2ae7cd3eccd4c1739d71fd8f27
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3b\3b7e0b27994a4499815c946fe7f4be4f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3b\3b7e0b27994a4499815c946fe7f4be4f
-    projectPath: Library\Artifacts\3b\3b7e0b27994a4499815c946fe7f4be4f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3d\3dc43193eb900974b071bc5ddf8c67bb
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3d\3dc43193eb900974b071bc5ddf8c67bb
-    projectPath: Library\Artifacts\3d\3dc43193eb900974b071bc5ddf8c67bb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\3f\3f611d5b932db77083290e6c8c71e187
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3f\3f611d5b932db77083290e6c8c71e187
-    projectPath: Library\Artifacts\3f\3f611d5b932db77083290e6c8c71e187
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3f\3fba715fc4e1c69e685bbbbc730efd07
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\3f\3fba715fc4e1c69e685bbbbc730efd07
-    projectPath: Library\Artifacts\3f\3fba715fc4e1c69e685bbbbc730efd07
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\42\4221053f635c33770cfc1672101034bf
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\42\4221053f635c33770cfc1672101034bf
-    projectPath: Library\Artifacts\42\4221053f635c33770cfc1672101034bf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\44\442e80b8d4dcbfb4e168e9ff680dc549
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\44\442e80b8d4dcbfb4e168e9ff680dc549
-    projectPath: Library\Artifacts\44\442e80b8d4dcbfb4e168e9ff680dc549
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\44\44cbb01d4945e68534184c5fe6770e1a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\44\44cbb01d4945e68534184c5fe6770e1a
-    projectPath: Library\Artifacts\44\44cbb01d4945e68534184c5fe6770e1a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\44\44e6b58e05c9a2c974acffac13e60938
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\44\44e6b58e05c9a2c974acffac13e60938
-    projectPath: Library\Artifacts\44\44e6b58e05c9a2c974acffac13e60938
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\452aeb51019a8f9fbbc79395a34e8bf1
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\45\452aeb51019a8f9fbbc79395a34e8bf1
-    projectPath: Library\Artifacts\45\452aeb51019a8f9fbbc79395a34e8bf1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\45403625f286d449593e1ee33a42dc69
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\45\45403625f286d449593e1ee33a42dc69
-    projectPath: Library\Artifacts\45\45403625f286d449593e1ee33a42dc69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\45\45a6d21205a95c804dbc9dd3e6e18ece
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\45\45a6d21205a95c804dbc9dd3e6e18ece
-    projectPath: Library\Artifacts\45\45a6d21205a95c804dbc9dd3e6e18ece
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4c\4ca25dec160630a6214d054a2099fcc9
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4c\4ca25dec160630a6214d054a2099fcc9
-    projectPath: Library\Artifacts\4c\4ca25dec160630a6214d054a2099fcc9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4c\4cd30e19d46a4978ea41e254ea91dcdf
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4c\4cd30e19d46a4978ea41e254ea91dcdf
-    projectPath: Library\Artifacts\4c\4cd30e19d46a4978ea41e254ea91dcdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4e\4e168d06055b7d310901ad0ce35e62d3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\4e\4e168d06055b7d310901ad0ce35e62d3
-    projectPath: Library\Artifacts\4e\4e168d06055b7d310901ad0ce35e62d3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\506e94fa7f8a337307f20f23c9e0ea2c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\50\506e94fa7f8a337307f20f23c9e0ea2c
-    projectPath: Library\Artifacts\50\506e94fa7f8a337307f20f23c9e0ea2c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\508faedc5649ed6351299c031fd6cb18
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\50\508faedc5649ed6351299c031fd6cb18
-    projectPath: Library\Artifacts\50\508faedc5649ed6351299c031fd6cb18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\50dff5486be6c97651cc927db4b5050c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\50\50dff5486be6c97651cc927db4b5050c
-    projectPath: Library\Artifacts\50\50dff5486be6c97651cc927db4b5050c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\53\536ed2d9fb603683c51d700c4aaa396d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\53\536ed2d9fb603683c51d700c4aaa396d
-    projectPath: Library\Artifacts\53\536ed2d9fb603683c51d700c4aaa396d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\57\57e3558c911f2fcc9905ba9e3a83060c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\57\57e3558c911f2fcc9905ba9e3a83060c
-    projectPath: Library\Artifacts\57\57e3558c911f2fcc9905ba9e3a83060c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\58\58b46c30dec8019b328ee7a425f32939
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\58\58b46c30dec8019b328ee7a425f32939
-    projectPath: Library\Artifacts\58\58b46c30dec8019b328ee7a425f32939
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5a\5ad08ede5d3e26685f0eafa35374d2fe
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5a\5ad08ede5d3e26685f0eafa35374d2fe
-    projectPath: Library\Artifacts\5a\5ad08ede5d3e26685f0eafa35374d2fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5d\5d69a62c7bda57821202f91429f7ee3c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5d\5d69a62c7bda57821202f91429f7ee3c
-    projectPath: Library\Artifacts\5d\5d69a62c7bda57821202f91429f7ee3c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\609f726aa5099db42e6b9df567e55715
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\60\609f726aa5099db42e6b9df567e55715
-    projectPath: Library\Artifacts\60\609f726aa5099db42e6b9df567e55715
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\61\6123e0f8887842e8e6baf2d489ec6af4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\61\6123e0f8887842e8e6baf2d489ec6af4
-    projectPath: Library\Artifacts\61\6123e0f8887842e8e6baf2d489ec6af4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\61\61ad815852d034d654fa98dfbe475f72
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\61\61ad815852d034d654fa98dfbe475f72
-    projectPath: Library\Artifacts\61\61ad815852d034d654fa98dfbe475f72
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\62\624788c9062933e6800522516e4bec6e
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\62\624788c9062933e6800522516e4bec6e
-    projectPath: Library\Artifacts\62\624788c9062933e6800522516e4bec6e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\63\6321796153f7f8dcce985ad4a2f104bf
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\63\6321796153f7f8dcce985ad4a2f104bf
-    projectPath: Library\Artifacts\63\6321796153f7f8dcce985ad4a2f104bf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\66\66525bb5aea0bf50141f48d2b1c1b2c7
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\66\66525bb5aea0bf50141f48d2b1c1b2c7
-    projectPath: Library\Artifacts\66\66525bb5aea0bf50141f48d2b1c1b2c7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\66\66ebc6a44d4bff3b9eb8dc0e098ade70
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\66\66ebc6a44d4bff3b9eb8dc0e098ade70
-    projectPath: Library\Artifacts\66\66ebc6a44d4bff3b9eb8dc0e098ade70
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\69\69a5b003e629a1624095ba1e5fd55c5d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\69\69a5b003e629a1624095ba1e5fd55c5d
-    projectPath: Library\Artifacts\69\69a5b003e629a1624095ba1e5fd55c5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\72\72198847bbda813de4b03dc6adce6ca1
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\72\72198847bbda813de4b03dc6adce6ca1
-    projectPath: Library\Artifacts\72\72198847bbda813de4b03dc6adce6ca1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\75\7589ac68c395337af5e624ee4b5dd8b4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\75\7589ac68c395337af5e624ee4b5dd8b4
-    projectPath: Library\Artifacts\75\7589ac68c395337af5e624ee4b5dd8b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\76\76482f8f1a77a412871522fc924c418d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\76\76482f8f1a77a412871522fc924c418d
-    projectPath: Library\Artifacts\76\76482f8f1a77a412871522fc924c418d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7b\7bc7e466641fe16fc5b37698a6b43275
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\7b\7bc7e466641fe16fc5b37698a6b43275
-    projectPath: Library\Artifacts\7b\7bc7e466641fe16fc5b37698a6b43275
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d91d6d559d465e9d807c7e1cd0e2dec
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\7d\7d91d6d559d465e9d807c7e1cd0e2dec
-    projectPath: Library\Artifacts\7d\7d91d6d559d465e9d807c7e1cd0e2dec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\7d\7d9c621825521d0c1bebf5629208bfb3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\7d\7d9c621825521d0c1bebf5629208bfb3
-    projectPath: Library\Artifacts\7d\7d9c621825521d0c1bebf5629208bfb3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7f\7f446fe97e8f5a91c24d09058b1cf638
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\7f\7f446fe97e8f5a91c24d09058b1cf638
-    projectPath: Library\Artifacts\7f\7f446fe97e8f5a91c24d09058b1cf638
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\8274e1f78f93f46549be538deb70bef4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\82\8274e1f78f93f46549be538deb70bef4
-    projectPath: Library\Artifacts\82\8274e1f78f93f46549be538deb70bef4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\82b60db87d9ece130ea880f61e551f6f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\82\82b60db87d9ece130ea880f61e551f6f
-    projectPath: Library\Artifacts\82\82b60db87d9ece130ea880f61e551f6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\83\839739f7518b75bedfefa78cca0e5869
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\83\839739f7518b75bedfefa78cca0e5869
-    projectPath: Library\Artifacts\83\839739f7518b75bedfefa78cca0e5869
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\85\856f8f8a9a2f62d7797953a36b862e56
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\85\856f8f8a9a2f62d7797953a36b862e56
-    projectPath: Library\Artifacts\85\856f8f8a9a2f62d7797953a36b862e56
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\85\858beb4f7513375a5a9e2b65d3979e07
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\85\858beb4f7513375a5a9e2b65d3979e07
-    projectPath: Library\Artifacts\85\858beb4f7513375a5a9e2b65d3979e07
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\89\8993225ddf265a81b3fdb07f152516a4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\89\8993225ddf265a81b3fdb07f152516a4
-    projectPath: Library\Artifacts\89\8993225ddf265a81b3fdb07f152516a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8e\8e3b98560f2bff3a0bb715fae653963c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\8e\8e3b98560f2bff3a0bb715fae653963c
-    projectPath: Library\Artifacts\8e\8e3b98560f2bff3a0bb715fae653963c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8e\8e6ad89b214b33d0be76de9ae85e3335
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\8e\8e6ad89b214b33d0be76de9ae85e3335
-    projectPath: Library\Artifacts\8e\8e6ad89b214b33d0be76de9ae85e3335
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\91\9110d0359d271e4e2fda703acaf8b71c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\91\9110d0359d271e4e2fda703acaf8b71c
-    projectPath: Library\Artifacts\91\9110d0359d271e4e2fda703acaf8b71c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\94\94a9908e9a795dcc98d602ce7bb9e30f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\94\94a9908e9a795dcc98d602ce7bb9e30f
-    projectPath: Library\Artifacts\94\94a9908e9a795dcc98d602ce7bb9e30f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\95\958480d9f9a90c94e7bf57b116e5a8ab
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\95\958480d9f9a90c94e7bf57b116e5a8ab
-    projectPath: Library\Artifacts\95\958480d9f9a90c94e7bf57b116e5a8ab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\969321b4626a9579e5bc5b6458598f89
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\96\969321b4626a9579e5bc5b6458598f89
-    projectPath: Library\Artifacts\96\969321b4626a9579e5bc5b6458598f89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\9f\9f1a119fc2174326696ef03639af0398
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\9f\9f1a119fc2174326696ef03639af0398
-    projectPath: Library\Artifacts\9f\9f1a119fc2174326696ef03639af0398
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a3\a3ec6c86e3b6a87a76e42c084469b908
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a3\a3ec6c86e3b6a87a76e42c084469b908
-    projectPath: Library\Artifacts\a3\a3ec6c86e3b6a87a76e42c084469b908
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a5\a515079c6dc809e9e5e671f35bfaf485
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a5\a515079c6dc809e9e5e671f35bfaf485
-    projectPath: Library\Artifacts\a5\a515079c6dc809e9e5e671f35bfaf485
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a5\a55a81a667c19af3260a46db46f87c48
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a5\a55a81a667c19af3260a46db46f87c48
-    projectPath: Library\Artifacts\a5\a55a81a667c19af3260a46db46f87c48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a6\a6ce7ae7fb00dc7675af8d6f3d4a0d0c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a6\a6ce7ae7fb00dc7675af8d6f3d4a0d0c
-    projectPath: Library\Artifacts\a6\a6ce7ae7fb00dc7675af8d6f3d4a0d0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a6\a6e28aa5c274dd4cbc2251fd291fe5c4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a6\a6e28aa5c274dd4cbc2251fd291fe5c4
-    projectPath: Library\Artifacts\a6\a6e28aa5c274dd4cbc2251fd291fe5c4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\a9\a97be2e75bcd8cd6dfa059f0953e859f
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\a9\a97be2e75bcd8cd6dfa059f0953e859f
-    projectPath: Library\Artifacts\a9\a97be2e75bcd8cd6dfa059f0953e859f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\af\af019287cf9a695586fc2f210f48c984
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\af\af019287cf9a695586fc2f210f48c984
-    projectPath: Library\Artifacts\af\af019287cf9a695586fc2f210f48c984
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b4\b49ce89cbb278ef5fc4d4f8f3a5c4b3e
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b4\b49ce89cbb278ef5fc4d4f8f3a5c4b3e
-    projectPath: Library\Artifacts\b4\b49ce89cbb278ef5fc4d4f8f3a5c4b3e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b6\b65317ef075b52c415b39ed51c0cf854
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\b6\b65317ef075b52c415b39ed51c0cf854
-    projectPath: Library\Artifacts\b6\b65317ef075b52c415b39ed51c0cf854
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\bd\bd5eabd823da5ebecad7799c884899fe
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\bd\bd5eabd823da5ebecad7799c884899fe
-    projectPath: Library\Artifacts\bd\bd5eabd823da5ebecad7799c884899fe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\be\be67822cd7868f6cc0a7af11fbf15958
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\be\be67822cd7868f6cc0a7af11fbf15958
-    projectPath: Library\Artifacts\be\be67822cd7868f6cc0a7af11fbf15958
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bf\bf162dcecdf48921a31624220709e0ba
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\bf\bf162dcecdf48921a31624220709e0ba
-    projectPath: Library\Artifacts\bf\bf162dcecdf48921a31624220709e0ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bf\bfd4124c596a8c546e75ded2c5800482
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\bf\bfd4124c596a8c546e75ded2c5800482
-    projectPath: Library\Artifacts\bf\bfd4124c596a8c546e75ded2c5800482
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c0\c056d182b33507f6b8c945cd9f0b92ed
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c0\c056d182b33507f6b8c945cd9f0b92ed
-    projectPath: Library\Artifacts\c0\c056d182b33507f6b8c945cd9f0b92ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c0\c08779a1819eba8d6cbcdaa951127f1e
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c0\c08779a1819eba8d6cbcdaa951127f1e
-    projectPath: Library\Artifacts\c0\c08779a1819eba8d6cbcdaa951127f1e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c1\c1ff957c60d0514defba7567ca2cf9a5
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c1\c1ff957c60d0514defba7567ca2cf9a5
-    projectPath: Library\Artifacts\c1\c1ff957c60d0514defba7567ca2cf9a5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c2\c2613c040caef7b5047a0d493ba5ddc2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c2\c2613c040caef7b5047a0d493ba5ddc2
-    projectPath: Library\Artifacts\c2\c2613c040caef7b5047a0d493ba5ddc2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cd\cdcfa4f502bc290d9dd64d7e526484dc
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\cd\cdcfa4f502bc290d9dd64d7e526484dc
-    projectPath: Library\Artifacts\cd\cdcfa4f502bc290d9dd64d7e526484dc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ce\ce7ea77bdea03a4c1c2ae29770bdb95a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ce\ce7ea77bdea03a4c1c2ae29770bdb95a
-    projectPath: Library\Artifacts\ce\ce7ea77bdea03a4c1c2ae29770bdb95a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cf3310d60a920deed628b9c827af2033
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\cf\cf3310d60a920deed628b9c827af2033
-    projectPath: Library\Artifacts\cf\cf3310d60a920deed628b9c827af2033
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d2\d2d6c30e75fdbc02255a14464b7e62ab
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d2\d2d6c30e75fdbc02255a14464b7e62ab
-    projectPath: Library\Artifacts\d2\d2d6c30e75fdbc02255a14464b7e62ab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d3\d3ddd1c3c47b2286c9de741cb73fe9b8
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d3\d3ddd1c3c47b2286c9de741cb73fe9b8
-    projectPath: Library\Artifacts\d3\d3ddd1c3c47b2286c9de741cb73fe9b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4a1e1d5c1123b293bd798e99cc02871
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d4\d4a1e1d5c1123b293bd798e99cc02871
-    projectPath: Library\Artifacts\d4\d4a1e1d5c1123b293bd798e99cc02871
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d7\d7744af76f7e0eebe4bf18743f91eab3
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d7\d7744af76f7e0eebe4bf18743f91eab3
-    projectPath: Library\Artifacts\d7\d7744af76f7e0eebe4bf18743f91eab3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d8\d8338ce9a58b7f65a4c80ff89236aae7
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d8\d8338ce9a58b7f65a4c80ff89236aae7
-    projectPath: Library\Artifacts\d8\d8338ce9a58b7f65a4c80ff89236aae7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\d9\d94ea7f7c755ed4a3a709e1ec8cc1274
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d9\d94ea7f7c755ed4a3a709e1ec8cc1274
-    projectPath: Library\Artifacts\d9\d94ea7f7c755ed4a3a709e1ec8cc1274
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0b1cbc999f5cd6fc055bb8b01b5f2c2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e0\e0b1cbc999f5cd6fc055bb8b01b5f2c2
-    projectPath: Library\Artifacts\e0\e0b1cbc999f5cd6fc055bb8b01b5f2c2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e3\e3dc58e87d49b16cd4afb72171f107c8
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e3\e3dc58e87d49b16cd4afb72171f107c8
-    projectPath: Library\Artifacts\e3\e3dc58e87d49b16cd4afb72171f107c8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e5\e525391b930e1785d481771be15d6204
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e5\e525391b930e1785d481771be15d6204
-    projectPath: Library\Artifacts\e5\e525391b930e1785d481771be15d6204
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e7\e77f5b2d6bbbfa777dec16f01320ded7
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e7\e77f5b2d6bbbfa777dec16f01320ded7
-    projectPath: Library\Artifacts\e7\e77f5b2d6bbbfa777dec16f01320ded7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e8\e8e415f899dbb2808cb2a210f12d544a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e8\e8e415f899dbb2808cb2a210f12d544a
-    projectPath: Library\Artifacts\e8\e8e415f899dbb2808cb2a210f12d544a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e9\e9a110043340c08e2653b21c53a05287
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e9\e9a110043340c08e2653b21c53a05287
-    projectPath: Library\Artifacts\e9\e9a110043340c08e2653b21c53a05287
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ea\ea04c503c389df1363670c3535d47b27
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ea\ea04c503c389df1363670c3535d47b27
-    projectPath: Library\Artifacts\ea\ea04c503c389df1363670c3535d47b27
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\eb\eb900a10224e84da119e2bb24374397d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\eb\eb900a10224e84da119e2bb24374397d
-    projectPath: Library\Artifacts\eb\eb900a10224e84da119e2bb24374397d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef13d5c40800763d7dd3785ae67b993a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ef\ef13d5c40800763d7dd3785ae67b993a
-    projectPath: Library\Artifacts\ef\ef13d5c40800763d7dd3785ae67b993a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f3\f3783d6e2426feb9ec723b5a8a10fb04
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f3\f3783d6e2426feb9ec723b5a8a10fb04
-    projectPath: Library\Artifacts\f3\f3783d6e2426feb9ec723b5a8a10fb04
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f3\f390918430b28573b258b3f77ccf419a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f3\f390918430b28573b258b3f77ccf419a
-    projectPath: Library\Artifacts\f3\f390918430b28573b258b3f77ccf419a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f4\f4d484ca89fa22369c7d94b17e0e525e
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f4\f4d484ca89fa22369c7d94b17e0e525e
-    projectPath: Library\Artifacts\f4\f4d484ca89fa22369c7d94b17e0e525e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f5\f5f27ef94ca7e8dd6f87d1e99ea2a6e4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f5\f5f27ef94ca7e8dd6f87d1e99ea2a6e4
-    projectPath: Library\Artifacts\f5\f5f27ef94ca7e8dd6f87d1e99ea2a6e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f6\f6698c21c55947338b3f4094eedff2d4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f6\f6698c21c55947338b3f4094eedff2d4
-    projectPath: Library\Artifacts\f6\f6698c21c55947338b3f4094eedff2d4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\fa01067fb5f309413d45d629bf3833af
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fa\fa01067fb5f309413d45d629bf3833af
-    projectPath: Library\Artifacts\fa\fa01067fb5f309413d45d629bf3833af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\fa\fad14d3dbe5c1bd7622eb8273da27759
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fa\fad14d3dbe5c1bd7622eb8273da27759
-    projectPath: Library\Artifacts\fa\fad14d3dbe5c1bd7622eb8273da27759
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fb\fb7f403dbac75465dfbcf8edfa5b3bac
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fb\fb7f403dbac75465dfbcf8edfa5b3bac
-    projectPath: Library\Artifacts\fb\fb7f403dbac75465dfbcf8edfa5b3bac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fe\fe55175305b970da59a57f15f497b97b
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fe\fe55175305b970da59a57f15f497b97b
-    projectPath: Library\Artifacts\fe\fe55175305b970da59a57f15f497b97b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -2632,12 +106,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -2650,141 +118,201 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\0\03531fde5728fd26babbad8593ed0717.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\0\03531fde5728fd26babbad8593ed0717.bin
-    projectPath: Library\ShaderCache\0\03531fde5728fd26babbad8593ed0717.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\176ed665ce3aa60fe76af10461759af9.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\1\176ed665ce3aa60fe76af10461759af9.bin
-    projectPath: Library\ShaderCache\1\176ed665ce3aa60fe76af10461759af9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1b0100f6f4894406e63d60f693a39935.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\1\1b0100f6f4894406e63d60f693a39935.bin
-    projectPath: Library\ShaderCache\1\1b0100f6f4894406e63d60f693a39935.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2bf32afdcdf260b9a82abdac3d03554b.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\2\2bf32afdcdf260b9a82abdac3d03554b.bin
-    projectPath: Library\ShaderCache\2\2bf32afdcdf260b9a82abdac3d03554b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\3afcc9ea938586dad86bc7feda057454.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\3\3afcc9ea938586dad86bc7feda057454.bin
-    projectPath: Library\ShaderCache\3\3afcc9ea938586dad86bc7feda057454.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\3c7b78daf49cddcd0402b76bb6a5b07b.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\3\3c7b78daf49cddcd0402b76bb6a5b07b.bin
-    projectPath: Library\ShaderCache\3\3c7b78daf49cddcd0402b76bb6a5b07b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4f2f55b16c93e8e08a121730f1ef92d7.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\4\4f2f55b16c93e8e08a121730f1ef92d7.bin
-    projectPath: Library\ShaderCache\4\4f2f55b16c93e8e08a121730f1ef92d7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\77ad815264aba5dbb7cde6924e3550d2.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\7\77ad815264aba5dbb7cde6924e3550d2.bin
-    projectPath: Library\ShaderCache\7\77ad815264aba5dbb7cde6924e3550d2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\82cf27e2322385eefc9bad00933a49c4.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\8\82cf27e2322385eefc9bad00933a49c4.bin
-    projectPath: Library\ShaderCache\8\82cf27e2322385eefc9bad00933a49c4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a6047201bba51a2369984d17c0744832.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\a\a6047201bba51a2369984d17c0744832.bin
-    projectPath: Library\ShaderCache\a\a6047201bba51a2369984d17c0744832.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\ab5b69c22693b152f9f1f0388b7c2e36.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\a\ab5b69c22693b152f9f1f0388b7c2e36.bin
-    projectPath: Library\ShaderCache\a\ab5b69c22693b152f9f1f0388b7c2e36.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c19de5016b615f4e64831b8474be4fde.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\c\c19de5016b615f4e64831b8474be4fde.bin
-    projectPath: Library\ShaderCache\c\c19de5016b615f4e64831b8474be4fde.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\cf25c729b85d61fda52a73f940f3bbcd.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\c\cf25c729b85d61fda52a73f940f3bbcd.bin
-    projectPath: Library\ShaderCache\c\cf25c729b85d61fda52a73f940f3bbcd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\ebf76e2ac107cc1f2d4bd027620f4776.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\e\ebf76e2ac107cc1f2d4bd027620f4776.bin
-    projectPath: Library\ShaderCache\e\ebf76e2ac107cc1f2d4bd027620f4776.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\f\fd8fee623834e644890bda5021bee7cb.bin
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ShaderCache\f\fd8fee623834e644890bda5021bee7cb.bin
-    projectPath: Library\ShaderCache\f\fd8fee623834e644890bda5021bee7cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+  - path: Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InputSystem.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.InputSystem.dll
+    projectPath: Library\ScriptAssemblies\Unity.InputSystem.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -2794,21 +322,249 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-02d9334d38cc8c340a2c180720b880d5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-02d9334d38cc8c340a2c180720b880d5
+    projectPath: Temp\UnityTempFile-02d9334d38cc8c340a2c180720b880d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-056cbbb7b074dfd4ca8612fe31d5adef
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-056cbbb7b074dfd4ca8612fe31d5adef
+    projectPath: Temp\UnityTempFile-056cbbb7b074dfd4ca8612fe31d5adef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-084a206645600844993b5dd53e1fae1a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-084a206645600844993b5dd53e1fae1a
+    projectPath: Temp\UnityTempFile-084a206645600844993b5dd53e1fae1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0a19d933155c3434cbf39284d1554370
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-0a19d933155c3434cbf39284d1554370
+    projectPath: Temp\UnityTempFile-0a19d933155c3434cbf39284d1554370
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-16b434efa3d04554a9cef1a5d2796b10
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-16b434efa3d04554a9cef1a5d2796b10
+    projectPath: Temp\UnityTempFile-16b434efa3d04554a9cef1a5d2796b10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1afe9ee5218d7a54d8135c9aa13e2e59
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1afe9ee5218d7a54d8135c9aa13e2e59
+    projectPath: Temp\UnityTempFile-1afe9ee5218d7a54d8135c9aa13e2e59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1ff82a96339bfdb4fb958db42d7c79ed
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1ff82a96339bfdb4fb958db42d7c79ed
+    projectPath: Temp\UnityTempFile-1ff82a96339bfdb4fb958db42d7c79ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-28038f704f77ad64b9a6cbec44b6099a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-28038f704f77ad64b9a6cbec44b6099a
+    projectPath: Temp\UnityTempFile-28038f704f77ad64b9a6cbec44b6099a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-29e85ef1a8b603044897a56b55c95a9c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-29e85ef1a8b603044897a56b55c95a9c
+    projectPath: Temp\UnityTempFile-29e85ef1a8b603044897a56b55c95a9c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-34441a51e417a7a4184fcdbdfa20ddd2
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-34441a51e417a7a4184fcdbdfa20ddd2
+    projectPath: Temp\UnityTempFile-34441a51e417a7a4184fcdbdfa20ddd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-39d7df7ea4af112439e5246b8045f315
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-39d7df7ea4af112439e5246b8045f315
+    projectPath: Temp\UnityTempFile-39d7df7ea4af112439e5246b8045f315
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-43a8ef09d48a71c4382db53d3cbca5aa
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-43a8ef09d48a71c4382db53d3cbca5aa
+    projectPath: Temp\UnityTempFile-43a8ef09d48a71c4382db53d3cbca5aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-459e213ac0a85ac4180e05e8123daf2c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-459e213ac0a85ac4180e05e8123daf2c
+    projectPath: Temp\UnityTempFile-459e213ac0a85ac4180e05e8123daf2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-48461d168bb69c2499c41a6f9352fd3a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-48461d168bb69c2499c41a6f9352fd3a
+    projectPath: Temp\UnityTempFile-48461d168bb69c2499c41a6f9352fd3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4f40b5ba61bb9534a8495edb7ec283f2
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4f40b5ba61bb9534a8495edb7ec283f2
+    projectPath: Temp\UnityTempFile-4f40b5ba61bb9534a8495edb7ec283f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-537b26d23cf1d244c92b10323e9f30a6
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-537b26d23cf1d244c92b10323e9f30a6
+    projectPath: Temp\UnityTempFile-537b26d23cf1d244c92b10323e9f30a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-64cc8135529609d458526974e8920526
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-64cc8135529609d458526974e8920526
+    projectPath: Temp\UnityTempFile-64cc8135529609d458526974e8920526
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-667c6ae74ab7bfe479ab0eb3bab32b1a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-667c6ae74ab7bfe479ab0eb3bab32b1a
+    projectPath: Temp\UnityTempFile-667c6ae74ab7bfe479ab0eb3bab32b1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-74e7b0e4df015164a85cf97effaedf9b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-74e7b0e4df015164a85cf97effaedf9b
+    projectPath: Temp\UnityTempFile-74e7b0e4df015164a85cf97effaedf9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7bd8d1bd0894a0a4095121273c6b02cb
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-7bd8d1bd0894a0a4095121273c6b02cb
+    projectPath: Temp\UnityTempFile-7bd8d1bd0894a0a4095121273c6b02cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8081b0f09fbfe5543b32047470689d0c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8081b0f09fbfe5543b32047470689d0c
+    projectPath: Temp\UnityTempFile-8081b0f09fbfe5543b32047470689d0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8155044f4262e1f4ba7a306d3dc62469
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8155044f4262e1f4ba7a306d3dc62469
+    projectPath: Temp\UnityTempFile-8155044f4262e1f4ba7a306d3dc62469
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a1ecbfab22a7c4249b2870a084c0df99
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-a1ecbfab22a7c4249b2870a084c0df99
+    projectPath: Temp\UnityTempFile-a1ecbfab22a7c4249b2870a084c0df99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-aa3c43ba1d8d4ab46b6a2521700c01ba
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-aa3c43ba1d8d4ab46b6a2521700c01ba
+    projectPath: Temp\UnityTempFile-aa3c43ba1d8d4ab46b6a2521700c01ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b289a7b49e3e38941bc01cea34ccd8ba
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b289a7b49e3e38941bc01cea34ccd8ba
+    projectPath: Temp\UnityTempFile-b289a7b49e3e38941bc01cea34ccd8ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b90fccf9bf7fcc14cb69c59c05722245
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b90fccf9bf7fcc14cb69c59c05722245
+    projectPath: Temp\UnityTempFile-b90fccf9bf7fcc14cb69c59c05722245
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cfa38ba7f4d08a648adb2b140cbf02d0
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-cfa38ba7f4d08a648adb2b140cbf02d0
+    projectPath: Temp\UnityTempFile-cfa38ba7f4d08a648adb2b140cbf02d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d37316f78db376641b9f8699b1075f13
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-d37316f78db376641b9f8699b1075f13
+    projectPath: Temp\UnityTempFile-d37316f78db376641b9f8699b1075f13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d676bb0d598b20e4da9f180800825dc1
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-d676bb0d598b20e4da9f180800825dc1
+    projectPath: Temp\UnityTempFile-d676bb0d598b20e4da9f180800825dc1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e1f9cd244721bc04dba3b4909c85fbc7
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e1f9cd244721bc04dba3b4909c85fbc7
+    projectPath: Temp\UnityTempFile-e1f9cd244721bc04dba3b4909c85fbc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e302aad01cea2574a9e06f0d82336a2d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e302aad01cea2574a9e06f0d82336a2d
+    projectPath: Temp\UnityTempFile-e302aad01cea2574a9e06f0d82336a2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e3db8cdeee9bd62479be6cdee1a9776c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e3db8cdeee9bd62479be6cdee1a9776c
+    projectPath: Temp\UnityTempFile-e3db8cdeee9bd62479be6cdee1a9776c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e6da2902b26b96b4cb29e627721d6dd4
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e6da2902b26b96b4cb29e627721d6dd4
+    projectPath: Temp\UnityTempFile-e6da2902b26b96b4cb29e627721d6dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f194acf493df2fe4b82d8e5bd9405420
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f194acf493df2fe4b82d8e5bd9405420
+    projectPath: Temp\UnityTempFile-f194acf493df2fe4b82d8e5bd9405420
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f1eda46450fff0f499de4d4034fa4e0b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f1eda46450fff0f499de4d4034fa4e0b
+    projectPath: Temp\UnityTempFile-f1eda46450fff0f499de4d4034fa4e0b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fab4303cf4757974380a47708afdff87
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fab4303cf4757974380a47708afdff87
+    projectPath: Temp\UnityTempFile-fab4303cf4757974380a47708afdff87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fac8bed58bf1644428ef7d8c2a138ed5
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fac8bed58bf1644428ef7d8c2a138ed5
+    projectPath: Temp\UnityTempFile-fac8bed58bf1644428ef7d8c2a138ed5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
