@@ -31,9 +31,10 @@ public class lifeBar : MonoBehaviour
         if (actualLife >= maxLife) //impede que a vida ultrapasse o máximo
         {
             actualLife = maxLife;
-            oldLife = actualLife;
+            oldLife = maxLife;
         }
-        else if (actualLife != oldLife) //quando a vida atual mudar inicia a corrotina
+        
+        if (actualLife != oldLife) //quando a vida atual mudar inicia a corrotina
         {
             IEnumerator cachedCoroutine = LerpLifeBar();
             StartCoroutine(cachedCoroutine);
@@ -57,6 +58,19 @@ public class lifeBar : MonoBehaviour
         while (currentTime <= speed) //essa parte ainda ta com problema, em execução faz exatamente o que quero, alterando a vida com base em uma velocidade definida no inspecto, entretanto o while nunca vai finalizar
                                      // se eu tentar organizar o código para ele finalizar, o movimento learp não funciona, como ta agr pode gerar problemas de desempenho e precisa ser melhorado
         {
+            currentTime += Time.fixedDeltaTime;
+            normalizedValue = currentTime / speed;
+            lifeBarGUI.rectTransform.sizeDelta = Vector2.Lerp(oldLifeBarSize, new Vector2(actualLife / maxLife * lifeBarSize.x, lifeBarSize.y), normalizedValue);
+            oldLifeBarSize = lifeBarGUI.rectTransform.sizeDelta;
+            oldLife = actualLife;
+            yield return currentTime = 0;
+        }
+            //Debug.Log(currentTime);
+    }
+
+        /**while (currentTime <= speed) //essa parte ainda ta com problema, em execução faz exatamente o que quero, alterando a vida com base em uma velocidade definida no inspecto, entretanto o while nunca vai finalizar
+                                     // se eu tentar organizar o código para ele finalizar, o movimento learp não funciona, como ta agr pode gerar problemas de desempenho e precisa ser melhorado
+        {
             if (currentTime < Time.fixedDeltaTime)
             {
                 currentTime += Time.fixedDeltaTime;
@@ -70,7 +84,6 @@ public class lifeBar : MonoBehaviour
                 oldLife = actualLife;
                 yield return null;
             }
-            //Debug.Log(currentTime);
+            //Debug.Log(currentTime); **/
         }
-    }
-}
+    

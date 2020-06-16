@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-15T21:16:46.598-05:00
-  initializedAtString: 2020-06-15T20:51:51.545-05:00
+  lastUpdatedAtString: 2020-06-15T22:32:24.633-05:00
+  initializedAtString: 2020-06-15T21:28:44.931-05:00
   entries:
+  - path: .vs\Kciq-Games-teste-unity\v16\.suo
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\.vs\Kciq-Games-teste-unity\v16\.suo
+    projectPath: .vs\Kciq-Games-teste-unity\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\SampleScene.unity
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
@@ -34,9 +40,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\Artifacts\1c\1cc8a1e84f35065830e575c814ebda1a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\1c\1cc8a1e84f35065830e575c814ebda1a
+    projectPath: Library\Artifacts\1c\1cc8a1e84f35065830e575c814ebda1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1dcdb6887bc1afcc6390a3e0f642ea1f
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\1d\1dcdb6887bc1afcc6390a3e0f642ea1f
+    projectPath: Library\Artifacts\1d\1dcdb6887bc1afcc6390a3e0f642ea1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2ce23035eb6c492e565d581de45ea637
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\2c\2ce23035eb6c492e565d581de45ea637
+    projectPath: Library\Artifacts\2c\2ce23035eb6c492e565d581de45ea637
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\42\421be8c180d152ff0a84b1a4058c4716
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\42\421be8c180d152ff0a84b1a4058c4716
+    projectPath: Library\Artifacts\42\421be8c180d152ff0a84b1a4058c4716
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\44\442976f1626015c9408793fd2c7c4466
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\44\442976f1626015c9408793fd2c7c4466
+    projectPath: Library\Artifacts\44\442976f1626015c9408793fd2c7c4466
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5c\5caa755c01accdea384bbafc2b6e4783
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\5c\5caa755c01accdea384bbafc2b6e4783
+    projectPath: Library\Artifacts\5c\5caa755c01accdea384bbafc2b6e4783
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d6ec56be14b822441624a79f13a725a
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\8d\8d6ec56be14b822441624a79f13a725a
+    projectPath: Library\Artifacts\8d\8d6ec56be14b822441624a79f13a725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\91\91cd685233e2264fee4770469f1c149c
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\91\91cd685233e2264fee4770469f1c149c
+    projectPath: Library\Artifacts\91\91cd685233e2264fee4770469f1c149c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa9afd69c04affade1987736b1d41f1e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\aa\aa9afd69c04affade1987736b1d41f1e
+    projectPath: Library\Artifacts\aa\aa9afd69c04affade1987736b1d41f1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\ab\ab076395f0b1b6a79bad47331aa029d3
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ab\ab076395f0b1b6a79bad47331aa029d3
     projectPath: Library\Artifacts\ab\ab076395f0b1b6a79bad47331aa029d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ab\ab4daacbc65283d4317a75e41bb4b637
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\ab\ab4daacbc65283d4317a75e41bb4b637
+    projectPath: Library\Artifacts\ab\ab4daacbc65283d4317a75e41bb4b637
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\af\af6325ca767f800094f7a884d0cd0b12
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\af\af6325ca767f800094f7a884d0cd0b12
+    projectPath: Library\Artifacts\af\af6325ca767f800094f7a884d0cd0b12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c08779a1819eba8d6cbcdaa951127f1e
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c0\c08779a1819eba8d6cbcdaa951127f1e
+    projectPath: Library\Artifacts\c0\c08779a1819eba8d6cbcdaa951127f1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c1\c13861abd4caa66c270a2a0f49bdaead
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c1\c13861abd4caa66c270a2a0f49bdaead
+    projectPath: Library\Artifacts\c1\c13861abd4caa66c270a2a0f49bdaead
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c3\c3b0f72cdc0859c6c5a969bd7e269649
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\c3\c3b0f72cdc0859c6c5a969bd7e269649
+    projectPath: Library\Artifacts\c3\c3b0f72cdc0859c6c5a969bd7e269649
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cfea4652797a18f48ec8ee0a320b50a2
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\cf\cfea4652797a18f48ec8ee0a320b50a2
+    projectPath: Library\Artifacts\cf\cfea4652797a18f48ec8ee0a320b50a2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -44,23 +140,35 @@ MonoBehaviour:
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d8\d8db10fc3de45e756f5a61fa7dbbdbf7
     projectPath: Library\Artifacts\d8\d8db10fc3de45e756f5a61fa7dbbdbf7
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d9\d9c7ee36c8bc0bba59bbe63f9e5010de
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\d9\d9c7ee36c8bc0bba59bbe63f9e5010de
+    projectPath: Library\Artifacts\d9\d9c7ee36c8bc0bba59bbe63f9e5010de
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\db\db6e2ae8b72d30b497f613bf1e75005d
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\db\db6e2ae8b72d30b497f613bf1e75005d
     projectPath: Library\Artifacts\db\db6e2ae8b72d30b497f613bf1e75005d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e7\e79cae12caf1f6f2d50b495dd5efe471
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\e7\e79cae12caf1f6f2d50b495dd5efe471
-    projectPath: Library\Artifacts\e7\e79cae12caf1f6f2d50b495dd5efe471
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\eb\ebc9ca6a9657d0d5df2d6047e090a26c
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\eb\ebc9ca6a9657d0d5df2d6047e090a26c
     projectPath: Library\Artifacts\eb\ebc9ca6a9657d0d5df2d6047e090a26c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f5\f557b5f7d804949378e9c4bc7d143a21
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\f5\f557b5f7d804949378e9c4bc7d143a21
+    projectPath: Library\Artifacts\f5\f557b5f7d804949378e9c4bc7d143a21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fe9894fc88926a82f61d4afdccecd803
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\Artifacts\fe\fe9894fc88926a82f61d4afdccecd803
+    projectPath: Library\Artifacts\fe\fe9894fc88926a82f61d4afdccecd803
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -106,6 +214,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -115,192 +229,6 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InputSystem.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.InputSystem.dll
-    projectPath: Library\ScriptAssemblies\Unity.InputSystem.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -322,15 +250,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -346,225 +274,111 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-02d9334d38cc8c340a2c180720b880d5
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-02d9334d38cc8c340a2c180720b880d5
-    projectPath: Temp\UnityTempFile-02d9334d38cc8c340a2c180720b880d5
+  - path: Temp\UnityTempFile-2281a47f9fa842448a23b38b0bd8fae3
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-2281a47f9fa842448a23b38b0bd8fae3
+    projectPath: Temp\UnityTempFile-2281a47f9fa842448a23b38b0bd8fae3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-056cbbb7b074dfd4ca8612fe31d5adef
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-056cbbb7b074dfd4ca8612fe31d5adef
-    projectPath: Temp\UnityTempFile-056cbbb7b074dfd4ca8612fe31d5adef
+  - path: Temp\UnityTempFile-349148b1ada747f4f830c6c87f57d8d4
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-349148b1ada747f4f830c6c87f57d8d4
+    projectPath: Temp\UnityTempFile-349148b1ada747f4f830c6c87f57d8d4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-084a206645600844993b5dd53e1fae1a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-084a206645600844993b5dd53e1fae1a
-    projectPath: Temp\UnityTempFile-084a206645600844993b5dd53e1fae1a
+  - path: Temp\UnityTempFile-34cb712c56413c74f9f4b82481e0ffcf
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-34cb712c56413c74f9f4b82481e0ffcf
+    projectPath: Temp\UnityTempFile-34cb712c56413c74f9f4b82481e0ffcf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0a19d933155c3434cbf39284d1554370
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-0a19d933155c3434cbf39284d1554370
-    projectPath: Temp\UnityTempFile-0a19d933155c3434cbf39284d1554370
+  - path: Temp\UnityTempFile-35ed26bf6cd3b804cae8107780dd9276
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-35ed26bf6cd3b804cae8107780dd9276
+    projectPath: Temp\UnityTempFile-35ed26bf6cd3b804cae8107780dd9276
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-16b434efa3d04554a9cef1a5d2796b10
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-16b434efa3d04554a9cef1a5d2796b10
-    projectPath: Temp\UnityTempFile-16b434efa3d04554a9cef1a5d2796b10
+  - path: Temp\UnityTempFile-43b6aaf206f8ef949bc8ab7fc0896fc1
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-43b6aaf206f8ef949bc8ab7fc0896fc1
+    projectPath: Temp\UnityTempFile-43b6aaf206f8ef949bc8ab7fc0896fc1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1afe9ee5218d7a54d8135c9aa13e2e59
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1afe9ee5218d7a54d8135c9aa13e2e59
-    projectPath: Temp\UnityTempFile-1afe9ee5218d7a54d8135c9aa13e2e59
+  - path: Temp\UnityTempFile-48de68d9da94b3f4485d55f4faa20cf7
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-48de68d9da94b3f4485d55f4faa20cf7
+    projectPath: Temp\UnityTempFile-48de68d9da94b3f4485d55f4faa20cf7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1ff82a96339bfdb4fb958db42d7c79ed
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-1ff82a96339bfdb4fb958db42d7c79ed
-    projectPath: Temp\UnityTempFile-1ff82a96339bfdb4fb958db42d7c79ed
+  - path: Temp\UnityTempFile-4920592abc9a82f43b937b41f806d920
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4920592abc9a82f43b937b41f806d920
+    projectPath: Temp\UnityTempFile-4920592abc9a82f43b937b41f806d920
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-28038f704f77ad64b9a6cbec44b6099a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-28038f704f77ad64b9a6cbec44b6099a
-    projectPath: Temp\UnityTempFile-28038f704f77ad64b9a6cbec44b6099a
+  - path: Temp\UnityTempFile-4f125b2dce8842143a4260d968873120
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4f125b2dce8842143a4260d968873120
+    projectPath: Temp\UnityTempFile-4f125b2dce8842143a4260d968873120
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-29e85ef1a8b603044897a56b55c95a9c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-29e85ef1a8b603044897a56b55c95a9c
-    projectPath: Temp\UnityTempFile-29e85ef1a8b603044897a56b55c95a9c
+  - path: Temp\UnityTempFile-4f614b184fd995847ab9f2a5edbf81f0
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4f614b184fd995847ab9f2a5edbf81f0
+    projectPath: Temp\UnityTempFile-4f614b184fd995847ab9f2a5edbf81f0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-34441a51e417a7a4184fcdbdfa20ddd2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-34441a51e417a7a4184fcdbdfa20ddd2
-    projectPath: Temp\UnityTempFile-34441a51e417a7a4184fcdbdfa20ddd2
+  - path: Temp\UnityTempFile-5943005795079b948808ac43f8337d48
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-5943005795079b948808ac43f8337d48
+    projectPath: Temp\UnityTempFile-5943005795079b948808ac43f8337d48
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-39d7df7ea4af112439e5246b8045f315
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-39d7df7ea4af112439e5246b8045f315
-    projectPath: Temp\UnityTempFile-39d7df7ea4af112439e5246b8045f315
+  - path: Temp\UnityTempFile-6dc979d898e01c4489a738296a03ff61
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-6dc979d898e01c4489a738296a03ff61
+    projectPath: Temp\UnityTempFile-6dc979d898e01c4489a738296a03ff61
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-43a8ef09d48a71c4382db53d3cbca5aa
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-43a8ef09d48a71c4382db53d3cbca5aa
-    projectPath: Temp\UnityTempFile-43a8ef09d48a71c4382db53d3cbca5aa
+  - path: Temp\UnityTempFile-7a182c8b92d14dd4cbb467f97c78963d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-7a182c8b92d14dd4cbb467f97c78963d
+    projectPath: Temp\UnityTempFile-7a182c8b92d14dd4cbb467f97c78963d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-459e213ac0a85ac4180e05e8123daf2c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-459e213ac0a85ac4180e05e8123daf2c
-    projectPath: Temp\UnityTempFile-459e213ac0a85ac4180e05e8123daf2c
+  - path: Temp\UnityTempFile-8678938999aa7df47b19bd7f0cd49139
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8678938999aa7df47b19bd7f0cd49139
+    projectPath: Temp\UnityTempFile-8678938999aa7df47b19bd7f0cd49139
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-48461d168bb69c2499c41a6f9352fd3a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-48461d168bb69c2499c41a6f9352fd3a
-    projectPath: Temp\UnityTempFile-48461d168bb69c2499c41a6f9352fd3a
+  - path: Temp\UnityTempFile-9d2b8bc6a0ce400469a0b4b969005bf9
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-9d2b8bc6a0ce400469a0b4b969005bf9
+    projectPath: Temp\UnityTempFile-9d2b8bc6a0ce400469a0b4b969005bf9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4f40b5ba61bb9534a8495edb7ec283f2
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-4f40b5ba61bb9534a8495edb7ec283f2
-    projectPath: Temp\UnityTempFile-4f40b5ba61bb9534a8495edb7ec283f2
+  - path: Temp\UnityTempFile-b24ce9fd896dc184e9d45e38abd83387
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b24ce9fd896dc184e9d45e38abd83387
+    projectPath: Temp\UnityTempFile-b24ce9fd896dc184e9d45e38abd83387
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-537b26d23cf1d244c92b10323e9f30a6
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-537b26d23cf1d244c92b10323e9f30a6
-    projectPath: Temp\UnityTempFile-537b26d23cf1d244c92b10323e9f30a6
+  - path: Temp\UnityTempFile-b35ec96fa1b65134689860bee89902f6
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b35ec96fa1b65134689860bee89902f6
+    projectPath: Temp\UnityTempFile-b35ec96fa1b65134689860bee89902f6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-64cc8135529609d458526974e8920526
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-64cc8135529609d458526974e8920526
-    projectPath: Temp\UnityTempFile-64cc8135529609d458526974e8920526
+  - path: Temp\UnityTempFile-e273ae6c3c23a5141867f3ccfa83880d
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e273ae6c3c23a5141867f3ccfa83880d
+    projectPath: Temp\UnityTempFile-e273ae6c3c23a5141867f3ccfa83880d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-667c6ae74ab7bfe479ab0eb3bab32b1a
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-667c6ae74ab7bfe479ab0eb3bab32b1a
-    projectPath: Temp\UnityTempFile-667c6ae74ab7bfe479ab0eb3bab32b1a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-74e7b0e4df015164a85cf97effaedf9b
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-74e7b0e4df015164a85cf97effaedf9b
-    projectPath: Temp\UnityTempFile-74e7b0e4df015164a85cf97effaedf9b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7bd8d1bd0894a0a4095121273c6b02cb
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-7bd8d1bd0894a0a4095121273c6b02cb
-    projectPath: Temp\UnityTempFile-7bd8d1bd0894a0a4095121273c6b02cb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8081b0f09fbfe5543b32047470689d0c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8081b0f09fbfe5543b32047470689d0c
-    projectPath: Temp\UnityTempFile-8081b0f09fbfe5543b32047470689d0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8155044f4262e1f4ba7a306d3dc62469
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-8155044f4262e1f4ba7a306d3dc62469
-    projectPath: Temp\UnityTempFile-8155044f4262e1f4ba7a306d3dc62469
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a1ecbfab22a7c4249b2870a084c0df99
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-a1ecbfab22a7c4249b2870a084c0df99
-    projectPath: Temp\UnityTempFile-a1ecbfab22a7c4249b2870a084c0df99
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-aa3c43ba1d8d4ab46b6a2521700c01ba
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-aa3c43ba1d8d4ab46b6a2521700c01ba
-    projectPath: Temp\UnityTempFile-aa3c43ba1d8d4ab46b6a2521700c01ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b289a7b49e3e38941bc01cea34ccd8ba
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b289a7b49e3e38941bc01cea34ccd8ba
-    projectPath: Temp\UnityTempFile-b289a7b49e3e38941bc01cea34ccd8ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b90fccf9bf7fcc14cb69c59c05722245
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-b90fccf9bf7fcc14cb69c59c05722245
-    projectPath: Temp\UnityTempFile-b90fccf9bf7fcc14cb69c59c05722245
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cfa38ba7f4d08a648adb2b140cbf02d0
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-cfa38ba7f4d08a648adb2b140cbf02d0
-    projectPath: Temp\UnityTempFile-cfa38ba7f4d08a648adb2b140cbf02d0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d37316f78db376641b9f8699b1075f13
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-d37316f78db376641b9f8699b1075f13
-    projectPath: Temp\UnityTempFile-d37316f78db376641b9f8699b1075f13
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d676bb0d598b20e4da9f180800825dc1
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-d676bb0d598b20e4da9f180800825dc1
-    projectPath: Temp\UnityTempFile-d676bb0d598b20e4da9f180800825dc1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e1f9cd244721bc04dba3b4909c85fbc7
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e1f9cd244721bc04dba3b4909c85fbc7
-    projectPath: Temp\UnityTempFile-e1f9cd244721bc04dba3b4909c85fbc7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e302aad01cea2574a9e06f0d82336a2d
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e302aad01cea2574a9e06f0d82336a2d
-    projectPath: Temp\UnityTempFile-e302aad01cea2574a9e06f0d82336a2d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e3db8cdeee9bd62479be6cdee1a9776c
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e3db8cdeee9bd62479be6cdee1a9776c
-    projectPath: Temp\UnityTempFile-e3db8cdeee9bd62479be6cdee1a9776c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e6da2902b26b96b4cb29e627721d6dd4
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-e6da2902b26b96b4cb29e627721d6dd4
-    projectPath: Temp\UnityTempFile-e6da2902b26b96b4cb29e627721d6dd4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f194acf493df2fe4b82d8e5bd9405420
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f194acf493df2fe4b82d8e5bd9405420
-    projectPath: Temp\UnityTempFile-f194acf493df2fe4b82d8e5bd9405420
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f1eda46450fff0f499de4d4034fa4e0b
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f1eda46450fff0f499de4d4034fa4e0b
-    projectPath: Temp\UnityTempFile-f1eda46450fff0f499de4d4034fa4e0b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fab4303cf4757974380a47708afdff87
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fab4303cf4757974380a47708afdff87
-    projectPath: Temp\UnityTempFile-fab4303cf4757974380a47708afdff87
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fac8bed58bf1644428ef7d8c2a138ed5
-    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-fac8bed58bf1644428ef7d8c2a138ed5
-    projectPath: Temp\UnityTempFile-fac8bed58bf1644428ef7d8c2a138ed5
+  - path: Temp\UnityTempFile-f488c5474a7252b4aa3f98f871725f0b
+    fullPath: E:\games\Projetos unity\teste 1\Kciq-Games-teste-unity\Temp\UnityTempFile-f488c5474a7252b4aa3f98f871725f0b
+    projectPath: Temp\UnityTempFile-f488c5474a7252b4aa3f98f871725f0b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

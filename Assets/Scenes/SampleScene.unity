@@ -2561,6 +2561,7 @@ GameObject:
   m_Component:
   - component: {fileID: 506881345}
   - component: {fileID: 506881346}
+  - component: {fileID: 506881347}
   m_Layer: 0
   m_Name: GameControl
   m_TagString: Untagged
@@ -2604,6 +2605,21 @@ MonoBehaviour:
   actualLife: 50
   maxLife: 200
   speed: 1.5
+--- !u!114 &506881347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 506881344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b1106ca33a5ad4faf0a125e7b65fee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxLife: 100
+  currentLife: 0
+  lifeBarImage: {fileID: 0}
 --- !u!1 &647789708
 GameObject:
   m_ObjectHideFlags: 0
@@ -27939,6 +27955,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LifeBar
+      objectReference: {fileID: 0}
+    - target: {fileID: 238022053766873185, guid: 309e2a90c7e870449bac82c9ce702a7e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 238022053815228453, guid: 309e2a90c7e870449bac82c9ce702a7e,
         type: 3}
